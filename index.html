@@ -191,7 +191,7 @@
             </div>
         </div>
 
-        <div class="stats-panel" id="stats-panel">
+        <div class="stats-panel" id="main-stats">
             <div class="stat-item">TOTAL: <b id="total-count">0</b></div>
             <div class="stat-item">UPDATE: <b id="update-time">-</b></div>
         </div>
@@ -199,65 +199,95 @@
 
     <div id="map"></div>
 
-    <div class="info-panel" id="stats-panel">
-        Loading cases...
-    </div>
-
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="map_data.js"></script>
     <script>
-        // Init Map centered in Puerto Rico
         const map = L.map('map', {
-            zoomControl: false
+            zoomControl: false,
+            attributionControl: false
         }).setView([18.2208, -66.5901], 9);
 
-        L.control.zoom({ position: 'bottomleft' }).addTo(map);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
 
-        // Dark Theme Tiles
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; OpenStreetMap &copy; CARTO'
-        }).addTo(map);
+        let activeMarkers = [];
+        let currentFilter = 'All';
 
-        if (typeof MAP_DATA !== 'undefined') {
-            const markers = [];
+        function renderMarkers() {
+            // Clear existing
+            activeMarkers.forEach(m => map.removeLayer(m));
+            activeMarkers = [];
 
-            MAP_DATA.forEach(case_item => {
-                const markerIcon = L.divIcon({
-                    className: 'custom-div-icon',
-                    html: `<div class="marker-pin" style="background: ${case_item.color}"></div>`,
-                    iconSize: [30, 42],
-                    iconAnchor: [15, 42]
+            const search = document.getElementById('caseSearch').value.toLowerCase();
+            
+            MAP_DATA.forEach(item => {
+                if (currentFilter !== 'All' && item.type !== currentFilter) return;
+                if (search && !item.id.toLowerCase().includes(search)) return;
+
+                const icon = L.divIcon({
+                    className: 'custom-icon',
+                    html: `<div class="marker-pin" style="background: ${item.color}"></div>`,
+                    iconSize: [24, 24],
+                    iconAnchor: [12, 12],
+                    popupAnchor: [0, -12]
                 });
 
-                const popupContent = `
-                    <div class="popup-content">
-                        <div class="popup-header">${case_item.id}</div>
-                        <div class="popup-type" style="background: ${case_item.color}">${case_item.type}</div>
-                        <div style="font-size: 0.8rem; color: #64748b;">
-                            <b>Task Order:</b> ${case_item.date}<br>
+                const popup = `
+                    <div style="color: #1e293b; padding: 5px; min-width: 200px; font-family: 'Plus Jakarta Sans', sans-serif;">
+                        <div style="font-weight: 800; font-size: 1.1rem; margin-bottom: 4px; color: #0f172a;">${item.id}</div>
+                        <div style="display:inline-block; background:${item.color}; color:white; padding:2px 8px; border-radius:10px; font-size:0.65rem; font-weight:800; text-transform:uppercase; margin-bottom:12px;">${item.type}</div>
+                        
+                        <div style="font-size: 0.75rem; color: #475569; display: grid; gap: 6px;">
+                            <div style="display: flex; justify-content: space-between;">
+                                <b style="color: #64748b;">Municipality:</b> 
+                                <span style="color: #1e293b; font-weight: 600;">${item.municipality || 'N/A'}</span>
+                            </div>
+                            <div style="display: flex; justify-content: space-between;">
+                                <b style="color: #64748b;">Stage Status:</b> 
+                                <span style="color: #1e293b; font-weight: 600;">${item.stage || 'N/A'}</span>
+                            </div>
+                            <div style="display: flex; justify-content: space-between;">
+                                <b style="color: #64748b;">Task Order:</b> 
+                                <span style="color: #1e293b; font-weight: 600;">${item.date || 'N/A'}</span>
+                            </div>
+                            <div style="border-top: 1px solid #e2e8f0; margin-top: 4px; padding-top: 4px;">
+                                <b style="color: #64748b; font-size: 0.7rem;">Subcontractor NTP:</b><br>
+                                <span style="color: #1e293b; font-weight: 600;">${item.notice_date || 'N/A'}</span>
+                            </div>
                         </div>
                     </div>
                 `;
 
-                const marker = L.marker([case_item.lat, case_item.lng], { icon: markerIcon })
-                    .bindPopup(popupContent);
-
-                marker.addTo(map);
-                markers.push(marker);
+                const m = L.marker([item.lat, item.lng], { icon }).bindPopup(popup);
+                m.addTo(map);
+                activeMarkers.push(m);
             });
 
-            // Update stats
-            document.getElementById('stats-panel').innerHTML = `
-                <b>TOTAL CASES:</b> ${MAP_DATA.length}<br>
-                <b>LAST UPDATE:</b> ${LAST_UPDATE}
-            `;
+            document.getElementById('total-count').innerText = activeMarkers.length;
+            document.getElementById('update-time').innerText = LAST_UPDATE;
+        }
 
-            if (markers.length > 0) {
-                const group = new L.featureGroup(markers);
-                map.fitBounds(group.getBounds().pad(0.1));
+        function toggleFilter(type, btn) {
+            currentFilter = type;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            renderMarkers();
+        }
+
+        function searchCase() {
+            renderMarkers();
+            if (activeMarkers.length === 1) {
+                map.setView(activeMarkers[0].getLatLng(), 15);
+                activeMarkers[0].openPopup();
             }
-        } else {
-            document.getElementById('stats-panel').innerHTML = "No data found. Please run the Python script.";
+        }
+
+        // Init
+        if (typeof MAP_DATA !== 'undefined') {
+            renderMarkers();
+            if (activeMarkers.length > 0) {
+                const group = new L.featureGroup(activeMarkers);
+                map.fitBounds(group.getBounds().pad(0.2));
+            }
         }
     </script>
 </body>
