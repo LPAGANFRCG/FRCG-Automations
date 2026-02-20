@@ -1,0 +1,331 @@
+Case ID,Type,Latitude,Longitude,Municipality,Stage Status,Task Order Date,Subcontractor NTP
+PR-SFM-02265,Reconstruction,18.45409,-66.29096,Dorado,03 - Design & Permitting,2026-02-17,
+PR-SFM-02213,Reconstruction,18.44959,-66.30593,Dorado,16 - Inactive,2025-02-05,
+PR-SFM-02183,Reconstruction,18.00316,-66.33898,Santa Isabel,11 - Structure Inspection,2024-12-13,2025-06-03
+PR-SFM-02174,Reconstruction,18.00041,-66.34228,Santa Isabel,11 - Structure Inspection,2025-01-07,2025-05-15
+PR-SFM-02171,Reconstruction,17.99913,-66.34283,Santa Isabel,12 - Substantial Inspection,2024-11-12,2025-05-26
+PR-EQK-01165,Reconstruction,18.0406,-66.80257,Guayanilla,12 - Substantial Inspection,2024-12-12,2025-06-25
+PR-SFM-01985,Reconstruction,18.41064,-66.35881,Vega Alta,11 - Structure Inspection,2024-12-02,2025-07-29
+PR-SFM-01930,Reconstruction,18.00379,-66.10729,Guayama,11 - Structure Inspection,2024-12-12,2025-05-23
+PR-EQK-01055,Reconstruction,17.99622,-66.97082,Lajas,11 - Structure Inspection,2024-12-06,2025-06-26
+PR-EQK-00927,Repair,18.02569,-66.78968,Guayanilla,03 - Design & Permitting,2025-07-03,
+PR-EQK-00878,Reconstruction,18.02904,-66.86223,Yauco,04 - Construction - Started,2025-06-12,
+PR-EQK-00794,Reconstruction,18.03738,-67.1089,Lajas,11 - Structure Inspection,2024-12-02,2025-07-29
+PR-EQK-00732,Reconstruction,18.01913,-66.84241,Yauco,12 - Substantial Inspection,2025-02-06,2025-07-02
+PR-EQK-00697,Reconstruction,18.06338,-66.74634,Peñuelas,11 - Structure Inspection,2025-01-28,2025-06-09
+PR-EQK-00594,Reconstruction,18.06269,-66.71748,Peñuelas,04 - Construction - Started,2025-02-14,2025-11-19
+PR-EQK-00570,Reconstruction,17.97665,-66.8962,Guánica,03 - Design & Permitting,2026-02-09,
+PR-EQK-00514,Relocation,18.02034,-66.76241,Guayanilla,03 - Design & Permitting,2025-01-15,
+PR-EQK-00425,Reconstruction,17.98979,-66.81844,Guayanilla,16 - Inactive,2025-02-10,
+PR-SFM-01868,Reconstruction,18.00354,-66.10611,Guayama,03 - Design & Permitting,2025-09-10,
+PR-SFM-01867,Reconstruction,18.00453,-66.10711,Guayama,07 - Foundation Inspection,2025-02-07,2025-11-19
+PR-SFM-01860,Reconstruction,18.0008,-66.10945,Guayama,03 - Design & Permitting,2025-01-08,
+PR-SFM-01851,Reconstruction,17.96404,-66.16652,Guayama,08 - Walls Inspection (1st Level),2024-12-18,2025-05-07
+PR-SFM-01842,Reconstruction,17.96097,-66.16542,Guayama,04 - Construction - Started,2024-12-06,2025-10-13
+PR-SFM-01781,Relocation,18.39046,-66.26303,Dorado,16 - Inactive,2025-05-13,
+PR-SFM-01334,Reconstruction,18.01344,-66.11842,Guayama,11 - Structure Inspection,2025-01-08,2025-06-18
+PR-SFM-00736,Relocation,17.9568,-66.41047,Santa Isabel,16 - Inactive,2025-05-08,
+PR-R3-25289 (BR),Reconstruction,17.96019,-66.93079,Guánica,08 - Walls Inspection (1st Level),2024-10-30,2025-09-22
+PR-R3-21788 (BR),Relocation,18.38472,-66.74146,Arecibo,15 - Construction Complete,2024-10-23,
+PR-R3-17316 (BR),Relocation,18.14329,-67.06827,San Germán,15 - Construction Complete,2024-10-23,
+PR-R3-15841 (BR),Reconstruction,18.42837,-66.17425,Toa Baja,15 - Construction Complete,2025-01-02,2025-03-12
+PR-R3-10718,Relocation,18.38988,-66.59767,Arecibo,03 - Design & Permitting,2025-06-11,
+PR-R3-09658,Relocation,18.22042,-66.5908,Jayuya,15 - Construction Complete,2024-10-23,
+PR-R3-08514,Relocation,18.45397,-67.09112,Aguadilla,15 - Construction Complete,2024-10-23,
+PR-SFM-02793,Reconstruction,18.50277,-67.0591,Isabela,11 - Structure Inspection,2024-12-11,2025-05-26
+PR-SFM-02788,Reconstruction,18.50128,-67.0145,Isabela,11 - Structure Inspection,2024-12-03,2025-09-23
+PR-SFM-00460,Reconstruction,18.48634,-66.97404,Isabela,16 - Inactive,2025-03-27,
+PR-SFM-00092,Reconstruction,18.50457,-67.04551,Isabela,11 - Structure Inspection,2024-12-12,2025-07-24
+PR-R3-14136,Reconstruction,18.32626,-66.99133,San Sebastián,11 - Structure Inspection,2024-12-02,2025-07-30
+PR-R3-13835,Reconstruction,18.50338,-67.02018,Isabela,03 - Design & Permitting,2025-04-16,
+PR-R3-04719,Reconstruction,18.42748,-67.10705,Moca,06 - Retaining Wall Inspection (Walls),2024-12-26,2025-10-31
+PR-R3-17131,Reconstruction,18.40662,-66.02575,San Juan,11 - Structure Inspection,2025-03-31,2025-07-14
+PR-R3-11074,Relocation,18.16103,-65.77894,Humacao,15 - Construction Complete,2024-11-11,
+PR-R3-03120,Relocation,18.44172,-66.0511,San Juan,15 - Construction Complete,2024-11-11,
+PR-R3-01532,Relocation,18.39247,-65.95023,Carolina,15 - Construction Complete,2024-11-22,2025-06-17
+PR-R3-01343,Relocation,18.14032,-65.83562,Humacao,15 - Construction Complete,2024-11-11,
+PR-R3-00456,Relocation,18.31653,-65.90638,Carolina,15 - Construction Complete,2024-11-11,
+PR-R3-23561,Relocation,18.3451,-66.08331,San Juan,00 - Reassigned,2024-11-27,
+PR-R3-18639,Relocation,18.33579,-66.08546,San Juan,15 - Construction Complete,2024-12-09,
+PR-R3-13951,Relocation,18.32433,-66.12709,Guaynabo,15 - Construction Complete,2024-12-04,
+PR-R3-01076,Relocation,18.30422,-66.12845,Guaynabo,15 - Construction Complete,2024-12-19,
+PR-R3-09610 (BR),Relocation,18.30604,-66.16865,Bayamón,15 - Construction Complete,2024-12-19,
+PR-R3-02169,Relocation,18.41034,-66.35218,Vega Alta,15 - Construction Complete,2024-12-19,
+PR-SFM-01990,Reconstruction,18.38319,-66.17253,Bayamón,07 - Foundation Inspection,2025-01-20,2025-09-02
+PR-EQK-01124,Reconstruction,18.00602,-66.90244,Guánica,08 - Walls Inspection (1st Level),2025-01-14,2025-11-12
+PR-EQK-00804,Reconstruction,18.03721,-67.07495,Lajas,11 - Structure Inspection,2025-02-04,2025-08-28
+PR-R3-08433,Relocation,18.31187,-66.22236,Naranjito,15 - Construction Complete,2025-01-23,2025-07-25
+PR-R3-13792,Relocation,18.22158,-66.31692,Barranquitas,15 - Construction Complete,2025-02-07,
+PR-R3-12791,Relocation,18.36178,-66.1436,Bayamón,15 - Construction Complete,2025-02-07,
+PR-R3-02896 (BR),Relocation,18.32872,-66.37374,Morovis,15 - Construction Complete,2025-02-07,
+PR-EQK-01244,Reconstruction,18.00717,-66.89356,Guánica,11 - Structure Inspection,2025-03-13,2025-07-30
+PR-EQK-01123,Reconstruction,18.00081,-66.87351,Guánica,04 - Construction - Started,2025-02-27,
+PR-EQK-00946,Reconstruction,18.04828,-67.04152,Lajas,04 - Construction - Started,2025-03-03,2025-11-05
+PR-EQK-00496,Reconstruction,18.00591,-66.89617,Guánica,11 - Structure Inspection,2025-02-28,2025-11-07
+PR-SFM-03044,Reconstruction,18.42624,-66.67549,Arecibo,11 - Structure Inspection,2025-04-04,2025-10-02
+PR-R3-03018,Reconstruction,18.45253,-66.61916,Arecibo,07 - Foundation Inspection,2025-05-21,2025-11-11
+PR-R3-13085,Reconstruction,18.46265,-66.74788,Arecibo,04 - Construction - Started,2025-03-21,2025-11-10
+PR-R3-15549,Reconstruction,18.46797,-66.75306,Arecibo,11 - Structure Inspection,2025-04-04,2025-11-06
+PR-R3-18300,Relocation,18.41408,-66.76631,Arecibo,03 - Design & Permitting,2025-03-28,
+PR-R3-20326 (BR),Reconstruction,18.48478,-66.64658,Arecibo,03 - Design & Permitting,2025-05-21,
+PR-SFM-02512,Reconstruction,18.46847,-66.75617,Arecibo,03 - Design & Permitting,2025-04-14,
+PR-SFM-02842,Reconstruction,18.45875,-66.73754,Arecibo,07 - Foundation Inspection,2025-04-04,2025-11-03
+PR-SFM-02910,Reconstruction,18.45147,-66.63736,Arecibo,03 - Design & Permitting,2025-04-11,
+PR-SFM-02913,Reconstruction,18.43081,-66.61221,Arecibo,11 - Structure Inspection,2025-03-12,2025-10-20
+PR-SFM-02916,Reconstruction,18.44363,-66.65529,Arecibo,08 - Walls Inspection (1st Level),2025-03-03,2025-09-12
+PR-SFM-02923,Reconstruction,18.44319,-66.66677,Arecibo,04 - Construction - Started,2025-05-22,2025-12-12
+PR-SFM-02927,Reconstruction,18.48456,-66.64734,Arecibo,03 - Design & Permitting,2025-03-12,
+PR-SFM-02930,Reconstruction,18.44353,-66.63826,Arecibo,11 - Structure Inspection,2025-05-16,2025-11-06
+PR-SFM-02942,Reconstruction,18.48428,-66.67687,Arecibo,03 - Design & Permitting,2025-03-12,
+PR-SFM-02952,Reconstruction,18.44096,-66.65219,Arecibo,03 - Design & Permitting,2025-05-21,
+PR-SFM-02953,Reconstruction,18.48825,-66.63818,Arecibo,04 - Construction - Started,2025-03-19,2025-12-23
+PR-SFM-02962,Reconstruction,18.42564,-66.76378,Arecibo,07 - Foundation Inspection,2025-07-03,2025-11-10
+PR-SFM-02980,Reconstruction,18.42977,-66.68573,Arecibo,03 - Design & Permitting,2025-03-19,
+PR-SFM-02993,Reconstruction,18.42461,-66.6845,Arecibo,08 - Walls Inspection (1st Level),2025-05-07,2025-11-10
+PR-SFM-02999,Reconstruction,18.42475,-66.6722,Arecibo,04 - Construction - Started,2025-04-11,
+PR-SFM-03001,Reconstruction,18.43002,-66.68325,Arecibo,11 - Structure Inspection,2025-03-14,2025-10-28
+PR-SFM-03017,Reconstruction,18.46016,-66.75448,Arecibo,08 - Walls Inspection (1st Level),2025-06-13,2025-11-20
+PR-SFM-03018,Reconstruction,18.451,-66.7613,Arecibo,03 - Design & Permitting,2025-07-07,
+PR-SFM-03025,Reconstruction,18.43793,-66.76117,Arecibo,04 - Construction - Started,2025-05-15,2025-11-11
+PR-R3-00477,Relocation,18.19212,-66.46963,Orocovis,00 - Reassigned,2024-12-04,
+PR-R3-01183,Relocation,18.21409,-66.03436,Caguas,03 - Design & Permitting,2025-10-13,
+PR-R3-00347,Relocation,18.37677,-66.19875,Toa Alta,03 - Design & Permitting,2025-05-19,
+PR-R3-00568,Relocation,18.40443,-66.28706,Dorado,03 - Design & Permitting,2025-05-08,
+PR-R3-00948 (BR),Relocation,18.4337,-66.18021,Toa Baja,03 - Design & Permitting,2025-05-19,
+PR-R3-01026 (BR),Relocation,18.27011,-66.27616,Naranjito,15 - Construction Complete,2025-05-08,2025-08-26
+PR-R3-01198,Relocation,18.02837,-66.8721,Yauco,15 - Construction Complete,2025-04-28,2025-07-13
+PR-R3-01809,Relocation,18.33924,-66.42969,Morovis,04 - Construction - Started,2025-04-29,
+PR-R3-01897,Relocation,18.24766,-66.8529,Lares,04 - Construction - Started,2025-04-30,
+PR-R3-02487 (BR),Relocation,18.25877,-66.27145,Naranjito,15 - Construction Complete,2025-06-25,2025-10-06
+PR-R3-02534,Relocation,18.22409,-66.21764,Comerío,15 - Construction Complete,2025-06-04,
+PR-R3-03345 (BR),Relocation,18.44321,-66.11422,Cataño,03 - Design & Permitting,2025-05-21,
+PR-R3-03462,Relocation,18.4003,-66.8347,Camuy,15 - Construction Complete,2025-05-23,
+PR-R3-03795,Relocation,18.26475,-66.23993,Naranjito,03 - Design & Permitting,2025-05-08,
+PR-R3-04140,Relocation,18.46464,-66.77332,Hatillo,03 - Design & Permitting,2025-04-30,
+PR-R3-04301,Relocation,18.15726,-67.14691,Mayagüez,03 - Design & Permitting,2025-04-30,
+PR-R3-04815,Relocation,18.31646,-66.12487,Guaynabo,03 - Design & Permitting,2025-05-19,
+PR-R3-04963,Relocation,18.24766,-66.8529,Lares,04 - Construction - Started,2025-04-30,
+PR-R3-04986 (BR),Relocation,18.27911,-67.14624,Añasco,04 - Construction - Started,2025-04-30,
+PR-R3-08733,Relocation,18.25617,-66.27528,Naranjito,03 - Design & Permitting,2025-05-08,
+PR-R3-09098,Relocation,18.05522,-66.52582,Juana Díaz,03 - Design & Permitting,2025-04-30,
+PR-R3-10322,Relocation,18.35679,-66.26846,Toa Alta,03 - Design & Permitting,2025-09-25,
+PR-R3-10514,Relocation,18.27904,-66.39461,Morovis,15 - Construction Complete,2025-05-19,2025-08-05
+PR-R3-11951,Relocation,18.31852,-66.22266,Naranjito,04 - Construction - Started,2025-05-29,
+PR-R3-14132,Relocation,18.16768,-67.0982,Mayagüez,04 - Construction - Started,2025-04-30,
+PR-R3-14937,Relocation,18.09137,-67.14555,Cabo Rojo,03 - Design & Permitting,2025-04-30,
+PR-R3-15184 (BR),Relocation,18.129,-66.48813,Villalba,15 - Construction Complete,2025-04-30,2025-09-30
+PR-R3-16138,Relocation,18.36871,-66.13484,Guaynabo,03 - Design & Permitting,2025-05-29,
+PR-R3-17129,Relocation,18.48496,-66.56979,Barceloneta,15 - Construction Complete,2025-04-30,
+PR-R3-17475,Relocation,18.06044,-66.87878,Yauco,15 - Construction Complete,2025-04-30,2025-10-13
+PR-R3-17476,Relocation,18.04957,-65.87743,Yabucoa,03 - Design & Permitting,2025-07-09,
+PR-R3-18505,Relocation,18.4319,-66.43101,Vega Baja,15 - Construction Complete,2025-04-30,
+PR-R3-21069,Relocation,18.40052,-66.18635,Bayamón,15 - Construction Complete,2025-04-29,2025-10-15
+PR-R3-23529,Relocation,18.12768,-67.02356,San Germán,03 - Design & Permitting,2025-04-30,
+PR-R3-24851,Relocation,18.22804,-67.16732,Mayagüez,15 - Construction Complete,2025-05-23,2025-10-20
+PR-R3-25417,Relocation,18.05089,-66.54709,Ponce,15 - Construction Complete,2025-04-30,
+PR-R3-26472 (BR),Relocation,17.97872,-66.61646,Ponce,04 - Construction - Started,2025-04-29,
+PR-R3-23922,Reconstruction,18.42979,-66.65067,Arecibo,11 - Structure Inspection,2025-05-21,2025-09-29
+PR-R3-25531,Reconstruction,18.47347,-66.65071,Arecibo,03 - Design & Permitting,2025-05-21,
+PR-SFM-02833,Reconstruction,18.31318,-66.38738,Morovis,04 - Construction - Started,2025-05-15,2025-11-18
+PR-R3-07131,Reconstruction,18.47804,-66.69698,Arecibo,03 - Design & Permitting,2025-04-25,
+PR-R3-07237,Reconstruction,18.40086,-66.60016,Arecibo,03 - Design & Permitting,2025-05-07,
+PR-EQK-00509,Relocation,18.00461,-66.89323,Guánica,03 - Design & Permitting,2025-05-12,
+PR-EQK-00610,Reconstruction,18.03508,-66.97281,Lajas,04 - Construction - Started,2025-05-08,
+PR-EQK-00667,Reconstruction,18.06695,-66.76066,Peñuelas,04 - Construction - Started,2025-05-19,
+PR-EQK-03012,Reconstruction,18.00367,-67.07123,Lajas,03 - Design & Permitting,2025-05-08,
+PR-R3-01373,Reconstruction,17.96378,-66.37358,Santa Isabel,04 - Construction - Started,2025-05-21,
+PR-EQK-00458,Reconstruction,17.96096,-66.93308,Guánica,03 - Design & Permitting,2025-05-21,
+PR-EQK-00465,Reconstruction,17.99181,-66.66117,Ponce,03 - Design & Permitting,2025-07-09,
+PR-EQK-00499,Reconstruction,17.96116,-66.93376,Guánica,03 - Design & Permitting,2025-06-16,
+PR-EQK-00511,Reconstruction,17.97676,-66.88705,Guánica,03 - Design & Permitting,2025-11-06,
+PR-EQK-00565,Reconstruction,17.97923,-66.88368,Guánica,03 - Design & Permitting,2025-06-23,
+PR-EQK-00650,Reconstruction,18.04153,-67.07691,Lajas,07 - Foundation Inspection,2025-05-27,2025-12-02
+PR-EQK-00918,Reconstruction,18.00983,-66.85847,Yauco,03 - Design & Permitting,2025-06-05,
+PR-EQK-00964,Reconstruction,17.97946,-66.88543,Guánica,03 - Design & Permitting,2025-05-27,
+PR-EQK-00973,Reconstruction,17.96533,-66.94202,Guánica,03 - Design & Permitting,2025-06-23,
+PR-EQK-01136,Reconstruction,17.98028,-66.88467,Guánica,03 - Design & Permitting,2025-06-04,
+PR-EQK-01197,Reconstruction,17.99582,-66.71449,Peñuelas,03 - Design & Permitting,2025-10-13,
+PR-EQK-01214,Reconstruction,18.00559,-66.90186,Guánica,04 - Construction - Started,2025-07-08,
+PR-EQK-01217,Reconstruction,17.98536,-66.9213,Guánica,03 - Design & Permitting,2025-07-09,
+PR-EQK-01224,Reconstruction,18.01236,-66.86538,Yauco,03 - Design & Permitting,2025-06-27,
+PR-R3-07321,Repair,18.44424,-66.18642,Toa Baja,15 - Construction Complete,2021-10-15,2025-08-27
+PR-EQK-00957,Reconstruction,17.99667,-66.65448,Ponce,03 - Design & Permitting,2026-01-09,
+PR-R3-07975 (BR),Reconstruction,18.39844,-66.30636,Vega Alta,00 - Reassigned,2022-02-23,
+PR-R3-19022 (BR),Reconstruction,18.31255,-65.2991,Culebra,00 - Reassigned,2022-06-24,
+PR-R3-22958,Reconstruction,18.23532,-66.20269,Comerío,00 - Reassigned,2022-05-20,
+PR-R3-25820 (BR),Reconstruction,18.34874,-66.08677,San Juan,00 - Reassigned,2021-02-10,
+PR-R3-15146,Relocation,18.21528,-66.38004,Orocovis,15 - Construction Complete,2025-06-04,2025-08-20
+PR-R3-00537,Relocation,18.15825,-66.47838,Villalba,15 - Construction Complete,2025-07-24,
+PR-R3-00888,Relocation,18.19522,-66.45203,Orocovis,03 - Design & Permitting,2025-09-03,
+PR-R3-01542,Relocation,18.3604,-66.40421,Morovis,03 - Design & Permitting,2025-08-11,
+PR-R3-01820,Relocation,18.24131,-66.41949,Orocovis,03 - Design & Permitting,2025-08-11,
+PR-R3-01944,Relocation,18.0936,-66.20724,Cayey,15 - Construction Complete,2025-08-06,2025-10-15
+PR-R3-01975,Relocation,18.16447,-65.76034,Humacao,15 - Construction Complete,2025-07-01,
+PR-R3-02509,Relocation,18.37818,-66.21784,Toa Alta,03 - Design & Permitting,2025-07-03,
+PR-R3-02526,Relocation,18.36241,-65.84285,Río Grande,15 - Construction Complete,2025-07-01,2025-09-19
+PR-R3-03312 (BR),Relocation,18.24738,-66.70188,Utuado,15 - Construction Complete,2025-08-06,2025-09-30
+PR-R3-04703,Relocation,18.28772,-67.18933,Añasco,15 - Construction Complete,2025-06-12,2025-07-29
+PR-R3-05009,Relocation,18.17721,-66.34687,Barranquitas,15 - Construction Complete,2025-06-19,2025-10-20
+PR-R3-08556,Repair,18.29849,-65.94148,Carolina,03 - Design & Permitting,2025-07-17,
+PR-R3-08943 (BR),Relocation,18.04284,-66.44947,Juana Díaz,15 - Construction Complete,2025-08-04,
+PR-R3-09324 (BR),Relocation,18.0531,-66.5855,Ponce,15 - Construction Complete,2025-05-28,2025-08-09
+PR-R3-09893,Relocation,18.08834,-66.229,Salinas,15 - Construction Complete,2025-07-17,
+PR-R3-10254 (BR),Relocation,18.42603,-66.49631,Manatí,15 - Construction Complete,2025-07-30,10/6/205
+PR-R3-10854,Relocation,18.00264,-66.92005,Guánica,15 - Construction Complete,2025-06-11,2025-08-20
+PR-R3-11101,Relocation,18.43467,-66.42454,Vega Baja,15 - Construction Complete,2025-07-08,
+PR-R3-15567,Relocation,18.37785,-66.21922,Toa Alta,15 - Construction Complete,2025-08-13,
+PR-R3-15738,Relocation,18.15929,-65.75835,Humacao,15 - Construction Complete,2025-08-12,
+PR-R3-16476,Relocation,18.32879,-66.26669,Naranjito,15 - Construction Complete,2025-08-11,2025-10-15
+PR-R3-16493,Relocation,18.07041,-66.32591,Coamo,15 - Construction Complete,2025-07-17,2025-09-19
+PR-R3-21729,Relocation,18.4194,-66.32718,Vega Alta,15 - Construction Complete,2025-05-30,2025-08-22
+PR-R3-22067,Relocation,18.40478,-65.95793,Carolina,13 - Final Inspection,2025-07-17,2025-12-22
+PR-R3-22440,Relocation,18.20179,-66.31921,Barranquitas,03 - Design & Permitting,2025-06-26,
+PR-R3-23757,Relocation,18.26703,-65.68372,Ceiba,15 - Construction Complete,2025-07-17,2025-10-15
+PR-R3-24988,Relocation,17.93567,-66.19836,Guayama,15 - Construction Complete,2025-07-01,2025-09-02
+PR-R3-25711,Relocation,18.22688,-66.31409,Barranquitas,15 - Construction Complete,2025-06-18,2025-10-15
+PR-R3-26749,Relocation,18.33113,-66.07958,San Juan,03 - Design & Permitting,2025-07-24,
+PR-SFM-01311,Relocation,18.03633,-66.84514,Yauco,15 - Construction Complete,2025-06-24,2025-10-28
+PR-SFM-01314,Relocation,18.16063,-65.75879,Humacao,04 - Construction - Started,2025-06-17,
+PR-SFM-01520,Relocation,18.18292,-67.1642,Mayagüez,15 - Construction Complete,2025-06-12,2026-01-28
+PR-SFM-01534,Relocation,18.15419,-65.82553,Humacao,03 - Design & Permitting,2025-07-09,
+PR-R3-03328,Relocation,18.24589,-66.70177,Utuado,15 - Construction Complete,2025-06-27,
+PR-R3-08798,Relocation,18.32794,-66.27315,Naranjito,15 - Construction Complete,2025-07-08,2025-10-21
+PR-R3-12153,Relocation,18.42967,-66.03989,San Juan,03 - Design & Permitting,2025-08-06,
+PR-R3-16767,Relocation,18.42604,-66.2338,Toa Baja,15 - Construction Complete,2025-06-10,
+PR-R3-24351,Relocation,18.30493,-66.13193,Guaynabo,04 - Construction - Started,2025-06-04,
+PR-SFM-02266,Relocation,18.47277,-66.26392,Dorado,15 - Construction Complete,2025-06-04,
+PR-SFM-02425,Relocation,18.33125,-66.98876,San Sebastián,04 - Construction - Started,2025-07-03,
+PR-SFM-02597,Relocation,18.03377,-66.84476,Yauco,15 - Construction Complete,2025-08-14,
+PR-SFM-02630,Relocation,17.99749,-66.89718,Guánica,03 - Design & Permitting,2025-07-07,
+PR-R3-12900,Reconstruction,18.30813,-65.30707,Culebra,00 - Reassigned,2021-01-11,
+PR-R3-14783,Reconstruction,18.38034,-66.25486,Toa Alta,00 - Reassigned,2022-09-01,
+PR-R3-19002,Reconstruction,18.3123,-65.30543,Culebra,00 - Reassigned,2022-06-28,
+PR-R3-00123,Repair,18.17216,-66.04001,Caguas,04 - Construction - Started,2025-07-23,
+PR-EQK-00646,Reconstruction,18.02463,-66.86451,Yauco,04 - Construction - Started,2025-09-25,2026-01-23
+PR-EQK-00676,Reconstruction,17.9964,-66.97134,Lajas,04 - Construction - Started,2025-09-02,
+PR-EQK-00832,Reconstruction,18.00497,-66.91159,Guánica,03 - Design & Permitting,2025-08-14,
+PR-EQK-00835,Reconstruction,17.99664,-66.9714,Lajas,04 - Construction - Started,2025-07-29,2026-01-12
+PR-EQK-00874,Reconstruction,18.02257,-66.86131,Yauco,03 - Design & Permitting,2025-10-23,
+PR-EQK-00951,Reconstruction,17.99614,-66.97159,Lajas,03 - Design & Permitting,2025-11-20,
+PR-EQK-01067,Reconstruction,18.01452,-66.84341,Yauco,03 - Design & Permitting,2025-08-11,
+PR-EQK-01131,Reconstruction,17.97351,-66.94615,Guánica,03 - Design & Permitting,2025-07-29,
+PR-R3-26215,Reconstruction,18.00437,-66.84543,Yauco,03 - Design & Permitting,2025-07-28,
+PR-BR-50495,Reconstruction,18.0542,-66.71586,Peñuelas,04 - Construction - Started,2025-08-04,
+PR-R3-09808,Reconstruction,18.01209,-66.87451,Yauco,07 - Foundation Inspection,2025-08-14,2025-12-23
+PR-R3-25372,Reconstruction,18.03962,-66.79576,Guayanilla,04 - Construction - Started,2025-07-25,2026-02-02
+PR-SFM-01230,Relocation,18.03956,-66.79661,Guayanilla,03 - Design & Permitting,2025-07-25,
+PR-SFM-03056,Reconstruction,18.06605,-66.75083,Peñuelas,03 - Design & Permitting,2025-12-30,
+PR-SFM-03059,Reconstruction,18.06603,-66.75093,Peñuelas,04 - Construction - Started,2025-09-09,2026-02-02
+PR-SFM-03109,Reconstruction,18.05792,-66.69619,Peñuelas,04 - Construction - Started,2025-08-05,2025-12-08
+PR-SFM-03110,Reconstruction,18.05963,-66.69681,Peñuelas,03 - Design & Permitting,2025-09-04,
+PR-SFM-03113,Reconstruction,18.06061,-66.69777,Peñuelas,03 - Design & Permitting,2025-09-04,
+PR-SFM-03172,Reconstruction,18.06244,-66.74633,Peñuelas,03 - Design & Permitting,2025-09-09,
+PR-SFM-03341,Reconstruction,18.05554,-66.71492,Peñuelas,03 - Design & Permitting,2025-10-21,
+PR-SFM-03364,Reconstruction,18.06079,-66.78214,Guayanilla,16 - Inactive,2025-10-14,
+PR-SFM-02181,Reconstruction,17.99813,-66.34326,Santa Isabel,03 - Design & Permitting,2025-08-14,
+PR-EQK-00814,Reconstruction,17.97875,-66.89214,Guánica,03 - Design & Permitting,2025-09-02,
+PR-R3-00764,Relocation,18.18121,-66.98036,Maricao,03 - Design & Permitting,2025-08-22,
+PR-R3-06675,Relocation,18.0162,-66.62672,Ponce,03 - Design & Permitting,2025-08-04,
+PR-R3-11425,Relocation,18.42865,-66.16993,Toa Baja,15 - Construction Complete,2025-09-03,
+PR-R3-17123,Relocation,18.20368,-67.14891,Mayagüez,03 - Design & Permitting,2025-07-23,
+PR-R3-03428,Repair,18.40862,-66.33764,Vega Alta,00 - Reassigned,2025-08-14,
+PR-EQK-00729,Reconstruction,18.02911,-66.86174,Yauco,03 - Design & Permitting,2025-10-08,
+PR-R3-07716,Reconstruction,18.04978,-66.71501,Peñuelas,03 - Design & Permitting,2025-08-27,
+PR-SFM-02602,Reconstruction,18.04828,-66.55212,Ponce,03 - Design & Permitting,2025-09-09,
+PR-SFM-02722,Relocation,18.01492,-66.58143,Ponce,03 - Design & Permitting,2025-09-30,
+PR-SFM-03075,Reconstruction,18.05033,-66.55241,Ponce,03 - Design & Permitting,2025-10-09,
+PR-SFM-03042,Relocation,17.99638,-66.7854,Guayanilla,03 - Design & Permitting,2025-10-13,
+PR-SFM-02989,Relocation,18.29459,-67.07802,Añasco,03 - Design & Permitting,2025-10-13,
+PR-SFM-02843,Relocation,18.28039,-66.70568,Utuado,04 - Construction - Started,2025-10-13,
+PR-SFM-02821,Relocation,18.37773,-67.11385,Moca,04 - Construction - Started,2025-10-13,
+PR-SFM-02708,Relocation,18.19061,-65.95946,San Lorenzo,03 - Design & Permitting,2026-02-20,
+PR-SFM-02440,Relocation,18.34011,-67.00556,San Sebastián,04 - Construction - Started,2025-10-13,
+PR-SFM-02391,Relocation,18.44066,-66.23119,Toa Baja,03 - Design & Permitting,2025-12-16,
+PR-SFM-02145,Relocation,18.4534,-66.54527,Barceloneta,04 - Construction - Started,2025-10-14,
+PR-EQK-01219,Relocation,17.97803,-66.88549,Guánica,15 - Construction Complete,2025-10-13,
+PR-SFM-02067,Relocation,18.00027,-66.25205,Salinas,03 - Design & Permitting,2025-11-11,
+PR-SFM-01780,Relocation,18.33098,-66.98949,San Sebastián,04 - Construction - Started,2025-09-29,
+PR-SFM-01673,Relocation,18.41174,-66.07639,San Juan,03 - Design & Permitting,2026-01-14,
+PR-SFM-01413,Relocation,18.0805,-66.35399,Coamo,04 - Construction - Started,2025-09-29,
+PR-SFM-01345,Relocation,18.37768,-66.21848,Toa Alta,03 - Design & Permitting,2025-11-11,
+PR-SFM-00906,Relocation,18.16803,-65.7467,Humacao,03 - Design & Permitting,2026-01-14,
+PR-SFM-00673,Relocation,18.41853,-66.21501,Toa Baja,03 - Design & Permitting,2025-12-16,
+PR-SFM-00485,Relocation,18.0102,-65.93133,Maunabo,03 - Design & Permitting,2026-01-14,
+PR-SFM-00440,Relocation,18.37049,-66.51858,Manatí,03 - Design & Permitting,2025-09-30,
+PR-BR-00518,Relocation,18.34708,-66.19325,Bayamón,03 - Design & Permitting,2025-12-16,
+PR-BR-00454,Relocation,18.39218,-66.41434,Vega Baja,03 - Design & Permitting,2025-12-16,
+PR-R3-26255,Relocation,18.42627,-66.49334,Manatí,03 - Design & Permitting,2025-10-06,
+PR-R3-24893,Relocation,18.27143,-65.93601,Gurabo,03 - Design & Permitting,2026-01-13,
+PR-R3-21418,Relocation,18.44676,-66.54996,Barceloneta,15 - Construction Complete,2025-10-06,
+PR-R3-20643 (BR),Relocation,18.26283,-67.07328,Añasco,04 - Construction - Started,2025-09-29,
+PR-R3-19547,Relocation,18.21851,-66.3981,Orocovis,03 - Design & Permitting,2025-12-16,
+PR-R3-19480,Relocation,18.3576,-66.40666,Morovis,03 - Design & Permitting,2025-11-06,
+PR-R3-18726,Relocation,17.99838,-66.53075,Juana Díaz,04 - Construction - Started,2025-09-03,
+PR-R3-18693,Relocation,18.31639,-65.97951,Trujillo Alto,03 - Design & Permitting,2026-01-14,
+PR-R3-17624,Relocation,17.94962,-66.26615,Salinas,03 - Design & Permitting,2025-11-06,
+PR-R3-16736,Relocation,18.29071,-66.0485,Caguas,03 - Design & Permitting,2025-12-16,
+PR-R3-08563,Relocation,18.35426,-66.45223,Morovis,03 - Design & Permitting,2025-11-11,
+PR-R3-07952,Relocation,18.46008,-66.35222,Vega Baja,03 - Design & Permitting,2025-12-16,
+PR-R3-07653 (BR),Relocation,18.13659,-66.73367,Adjuntas,03 - Design & Permitting,2025-09-29,
+PR-R3-05447 (BR),Relocation,18.08332,-66.36047,Coamo,03 - Design & Permitting,2026-02-19,
+PR-R3-03978,Relocation,18.31942,-66.15399,Bayamón,03 - Design & Permitting,2026-01-27,
+PR-R3-03612,Relocation,18.41936,-66.4071,Vega Baja,03 - Design & Permitting,2026-02-09,
+PR-R3-03050 (BR),Relocation,17.98936,-66.11461,Guayama,03 - Design & Permitting,2026-01-13,
+PR-R3-01451,Relocation,18.24999,-66.19592,Comerío,03 - Design & Permitting,2025-11-11,
+PR-EQK-00522,Relocation,18.05839,-66.77029,Guayanilla,03 - Design & Permitting,2025-11-11,
+PR-R3-12134,Relocation,18.04911,-65.8718,Yabucoa,03 - Design & Permitting,2026-01-14,
+PR-SFM-01290,Relocation,18.03861,-66.84393,Yauco,03 - Design & Permitting,2025-10-21,
+PR-EQK-00876,Reconstruction,18.03636,-66.8576,Yauco,03 - Design & Permitting,2025-10-29,
+PR-SFM-01298,Relocation,18.03598,-66.84602,Yauco,04 - Construction - Started,2025-10-06,
+PR-SFM-02236,Relocation,18.03577,-66.84526,Yauco,04 - Construction - Started,2025-10-06,
+PR-EQK-03013,Reconstruction,18.029,-66.98486,Lajas,03 - Design & Permitting,2025-11-11,
+PR-EQK-00796,Reconstruction,18.01447,-66.87367,Yauco,03 - Design & Permitting,2026-02-04,
+PR-R3-10286 (BR),Relocation,18.01148,-66.86937,Yauco,15 - Construction Complete,2025-10-06,
+PR-R3-01031 (BR),Relocation,17.98307,-66.63659,Ponce,03 - Design & Permitting,2025-09-29,
+PR-EQK-00576,Reconstruction,17.97585,-67.04752,Lajas,16 - Inactive,2025-10-23,
+PR-SFM-05130,Reconstruction,18.46243,-66.5966,Arecibo,03 - Design & Permitting,2025-12-17,
+PR-SFM-04581,Reconstruction,18.43938,-66.76435,Arecibo,03 - Design & Permitting,2026-01-16,
+PR-SFM-02974,Reconstruction,17.97317,-67.18638,Cabo Rojo,03 - Design & Permitting,2025-12-12,
+PR-SFM-02752,Reconstruction,17.97151,-67.18923,Cabo Rojo,03 - Design & Permitting,2025-12-09,
+PR-SFM-05356,Reconstruction,18.44921,-66.51021,Manatí,03 - Design & Permitting,2025-12-15,
+PR-R3-05653,Reconstruction,18.44912,-66.49459,Manatí,03 - Design & Permitting,2025-11-25,
+PR-SFM-04595,Reconstruction,18.44009,-66.44752,Manatí,03 - Design & Permitting,2026-01-05,
+PR-SFM-04073,Reconstruction,18.09852,-67.17373,Cabo Rojo,03 - Design & Permitting,2025-12-08,
+PR-SFM-04409,Reconstruction,18.05736,-66.6954,Peñuelas,03 - Design & Permitting,2025-12-23,
+PR-SFM-05247,Reconstruction,18.0414,-67.07683,Lajas,03 - Design & Permitting,2026-01-13,
+PR-SFM-04312,Reconstruction,18.03007,-67.16651,Cabo Rojo,03 - Design & Permitting,2026-02-09,
+PR-SFM-04324,Reconstruction,18.0278,-67.16212,Cabo Rojo,03 - Design & Permitting,2025-12-19,
+PR-SFM-04210,Reconstruction,18.02036,-67.13684,Cabo Rojo,03 - Design & Permitting,2025-12-02,
+PR-SFM-04803,Reconstruction,17.99909,-66.87408,Guánica,03 - Design & Permitting,2025-12-29,
+PR-SFM-04809,Reconstruction,17.99728,-66.81361,Guayanilla,03 - Design & Permitting,2025-12-31,
+PR-SFM-04915,Reconstruction,17.97609,-67.19395,Cabo Rojo,03 - Design & Permitting,2025-12-19,
+PR-SFM-04792,Reconstruction,17.97396,-67.18771,Cabo Rojo,03 - Design & Permitting,2026-01-02,
+PR-EQK-00647,Reconstruction,18.06325,-66.73073,Peñuelas,03 - Design & Permitting,2026-02-09,
+PR-EQK-00536,Reconstruction,18.03296,-66.62021,Ponce,03 - Design & Permitting,2025-12-12,
+PR-EQK-00900,Reconstruction,18.03119,-66.86647,Yauco,03 - Design & Permitting,2026-01-20,
+PR-EQK-01048,Reconstruction,17.98966,-66.91782,Guánica,03 - Design & Permitting,2026-02-12,
+PR-R3-04902,Reconstruction,18.06366,-66.60115,Ponce,03 - Design & Permitting,2025-12-02,
+PR-R3-15230,Reconstruction,18.04344,-66.67824,Ponce,03 - Design & Permitting,2025-12-04,
+PR-R3-22745,Reconstruction,18.031,-66.65839,Ponce,03 - Design & Permitting,2025-12-10,
+PR-SFM-02947,Relocation,18.44391,-66.22159,Toa Baja,03 - Design & Permitting,2025-12-16,
+PR-SFM-00499,Relocation,18.43898,-66.37436,Vega Baja,03 - Design & Permitting,2025-12-16,
+PR-SFM-01620,Relocation,18.42867,-66.27513,Dorado,03 - Design & Permitting,2025-12-16,
+PR-SFM-02429,Relocation,18.41027,-66.82373,Camuy,04 - Construction - Started,2025-12-10,
+PR-R3-06317,Relocation,18.30452,-66.41509,Morovis,03 - Design & Permitting,2025-12-16,
+PR-SFM-01934,Relocation,18.19104,-65.95968,San Lorenzo,03 - Design & Permitting,2026-01-14,
+PR-SFM-01303,Relocation,18.0336,-66.84625,Yauco,03 - Design & Permitting,2025-12-10,
+PR-R3-13268,Reconstruction,18.03064,-66.49308,Juana Díaz,03 - Design & Permitting,2026-01-13,
+PR-SFM-03648,Reconstruction,18.41479,-66.63769,Arecibo,03 - Design & Permitting,2026-02-06,
+PR-SFM-04034,Reconstruction,18.04979,-66.5282,Juana Díaz,03 - Design & Permitting,2025-12-31,
+PR-SFM-04534,Reconstruction,18.04015,-66.46816,Juana Díaz,03 - Design & Permitting,2026-01-23,
+PR-SFM-04656,Reconstruction,18.03866,-66.46394,Juana Díaz,03 - Design & Permitting,2026-01-27,
+PR-SFM-04749,Reconstruction,18.03148,-66.5377,Juana Díaz,03 - Design & Permitting,2026-02-02,
+PR-SFM-04782,Reconstruction,18.02678,-66.53794,Juana Díaz,03 - Design & Permitting,2026-01-23,
+PR-SFM-05038,Reconstruction,18.02603,-66.53397,Juana Díaz,03 - Design & Permitting,2026-01-23,
+PR-SFM-05116,Reconstruction,18.02957,-66.51555,Juana Díaz,03 - Design & Permitting,2026-02-19,
+PR-SFM-05438,Reconstruction,18.02942,-66.53966,Juana Díaz,03 - Design & Permitting,2026-02-05,
+PR-SFM-04694,Reconstruction,18.05845,-66.45724,Juana Díaz,03 - Design & Permitting,2026-01-20,
+PR-SFM-05399,Reconstruction,18.05707,-66.45496,Juana Díaz,03 - Design & Permitting,2026-01-27,
+PR-SFM-04500,Reconstruction,18.05681,-66.45376,Juana Díaz,03 - Design & Permitting,2026-02-09,
+PR-SFM-04287,Reconstruction,18.28611,-66.53934,Ciales,03 - Design & Permitting,2026-02-16,
+PR-SFM-05843,Reconstruction,18.46263,-66.74816,Arecibo,03 - Design & Permitting,2026-02-16,
