@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cases Geographic Monitor</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #030712;
+            --card-bg: rgba(17, 24, 39, 0.85);
+            --accent-primary: #38bdf8;
+            --relo-color: #3b82f6;
+            --recon-color: #ef4444;
+            --repair-color: #10b981;
+            --text-main: #f8fafc;
+            --text-dim: #94a3b8;
+            --glass-border: rgba(255, 255, 255, 0.08);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        #map {
+            flex: 1;
+            width: 100%;
+            z-index: 1;
+        }
+
+        .overlay {
+            position: absolute;
+            z-index: 1000;
+            pointer-events: none;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+
+        .header-box {
+            pointer-events: auto;
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            padding: 1.5rem;
+            border-radius: 1.25rem;
+            border: 1px solid var(--glass-border);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+            max-width: 450px;
+            margin-bottom: 20px;
+        }
+
+        .search-container {
+            pointer-events: auto;
+            margin-top: 15px;
+            display: flex;
+            gap: 10px;
+        }
+
+        input {
+            flex: 1;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--glass-border);
+            color: white;
+            padding: 0.6rem 1rem;
+            border-radius: 0.75rem;
+            font-family: inherit;
+            outline: none;
+        }
+
+        input:focus {
+            border-color: var(--accent-primary);
+        }
+
+        .filter-container {
+            pointer-events: auto;
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--glass-border);
+            color: var(--text-dim);
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filter-btn.active {
+            color: white;
+            border-color: var(--accent-primary);
+            background: rgba(56, 189, 248, 0.15);
+        }
+
+        h1 {
+            font-size: 1.25rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #60a5fa, #a78bfa);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .stats-panel {
+            margin-top: auto;
+            align-self: flex-end;
+            pointer-events: auto;
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            padding: 0.75rem 1.25rem;
+            border-radius: 1rem;
+            border: 1px solid var(--glass-border);
+            font-size: 0.75rem;
+            display: flex;
+            gap: 20px;
+        }
+
+        .stat-item b {
+            color: var(--accent-primary);
+        }
+
+        /* Marker Styling */
+        .marker-pin {
+            width: 24px;
+            height: 24px;
+            border-radius: 50% 50% 50% 0;
+            position: absolute;
+            transform: rotate(-45deg);
+            left: 50%;
+            top: 50%;
+            margin: -24px 0 0 -12px;
+            border: 2px solid white;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+            transition: transform 0.2s;
+        }
+
+        .marker-pin:hover {
+            transform: rotate(-45deg) scale(1.2);
+        }
+
+        .marker-pin::after {
+            content: '';
+            width: 10px;
+            height: 10px;
+            margin: 5px 0 0 5px;
+            background: white;
+            position: absolute;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="overlay">
+        <div class="header-box">
+            <h1>FRCG-MIT GEOMAP</h1>
+            <p style="font-size: 0.75rem; color: var(--text-dim); margin-top: 4px;">Operational Pipeline Visibility</p>
+
+            <div class="search-container">
+                <input type="text" id="caseSearch" placeholder="Search Case ID..." onkeyup="searchCase()">
+            </div>
+
+            <div class="filter-container">
+                <button class="filter-btn active" onclick="toggleFilter('All', this)">All</button>
+                <button class="filter-btn" onclick="toggleFilter('Relocation', this)">Relocation</button>
+                <button class="filter-btn" onclick="toggleFilter('Reconstruction', this)">Reconstruction</button>
+                <button class="filter-btn" onclick="toggleFilter('Repair', this)">Repair</button>
+            </div>
+        </div>
+
+        <div class="stats-panel" id="stats-panel">
+            <div class="stat-item">TOTAL: <b id="total-count">0</b></div>
+            <div class="stat-item">UPDATE: <b id="update-time">-</b></div>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <div class="info-panel" id="stats-panel">
+        Loading cases...
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="map_data.js"></script>
+    <script>
+        // Init Map centered in Puerto Rico
+        const map = L.map('map', {
+            zoomControl: false
+        }).setView([18.2208, -66.5901], 9);
+
+        L.control.zoom({ position: 'bottomleft' }).addTo(map);
+
+        // Dark Theme Tiles
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap &copy; CARTO'
+        }).addTo(map);
+
+        if (typeof MAP_DATA !== 'undefined') {
+            const markers = [];
+
+            MAP_DATA.forEach(case_item => {
+                const markerIcon = L.divIcon({
+                    className: 'custom-div-icon',
+                    html: `<div class="marker-pin" style="background: ${case_item.color}"></div>`,
+                    iconSize: [30, 42],
+                    iconAnchor: [15, 42]
+                });
+
+                const popupContent = `
+                    <div class="popup-content">
+                        <div class="popup-header">${case_item.id}</div>
+                        <div class="popup-type" style="background: ${case_item.color}">${case_item.type}</div>
+                        <div style="font-size: 0.8rem; color: #64748b;">
+                            <b>Task Order:</b> ${case_item.date}<br>
+                        </div>
+                    </div>
+                `;
+
+                const marker = L.marker([case_item.lat, case_item.lng], { icon: markerIcon })
+                    .bindPopup(popupContent);
+
+                marker.addTo(map);
+                markers.push(marker);
+            });
+
+            // Update stats
+            document.getElementById('stats-panel').innerHTML = `
+                <b>TOTAL CASES:</b> ${MAP_DATA.length}<br>
+                <b>LAST UPDATE:</b> ${LAST_UPDATE}
+            `;
+
+            if (markers.length > 0) {
+                const group = new L.featureGroup(markers);
+                map.fitBounds(group.getBounds().pad(0.1));
+            }
+        } else {
+            document.getElementById('stats-panel').innerHTML = "No data found. Please run the Python script.";
+        }
+    </script>
+</body>
+
+</html>
