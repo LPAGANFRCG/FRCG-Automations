@@ -5,7 +5,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.45409,
     "lng": -66.29096,
-    "date": "2026-02-17"
+    "date": "2026-02-17",
+    "municipality": "Dorado",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02213",
@@ -13,7 +16,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44959,
     "lng": -66.30593,
-    "date": "2025-02-05"
+    "date": "2025-02-05",
+    "municipality": "Dorado",
+    "notice_date": null,
+    "stage": "16 - Inactive"
   },
   {
     "id": "PR-SFM-02183",
@@ -21,7 +27,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00316,
     "lng": -66.33898,
-    "date": "2024-12-13"
+    "date": "2024-12-13",
+    "municipality": "Santa Isabel",
+    "notice_date": "2025-06-03",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-02174",
@@ -29,7 +38,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00041,
     "lng": -66.34228,
-    "date": "2025-01-07"
+    "date": "2025-01-07",
+    "municipality": "Santa Isabel",
+    "notice_date": "2025-05-15",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-02171",
@@ -37,7 +49,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99913,
     "lng": -66.34283,
-    "date": "2024-11-12"
+    "date": "2024-11-12",
+    "municipality": "Santa Isabel",
+    "notice_date": "2025-05-26",
+    "stage": "12 - Substantial Inspection"
   },
   {
     "id": "PR-EQK-01165",
@@ -45,7 +60,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.0406,
     "lng": -66.80257,
-    "date": "2024-12-12"
+    "date": "2024-12-12",
+    "municipality": "Guayanilla",
+    "notice_date": "2025-06-25",
+    "stage": "12 - Substantial Inspection"
   },
   {
     "id": "PR-SFM-01985",
@@ -53,7 +71,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.41064,
     "lng": -66.35881,
-    "date": "2024-12-02"
+    "date": "2024-12-02",
+    "municipality": "Vega Alta",
+    "notice_date": "2025-07-29",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-01930",
@@ -61,7 +82,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00379,
     "lng": -66.10729,
-    "date": "2024-12-12"
+    "date": "2024-12-12",
+    "municipality": "Guayama",
+    "notice_date": "2025-05-23",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-EQK-01055",
@@ -69,7 +93,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99622,
     "lng": -66.97082,
-    "date": "2024-12-06"
+    "date": "2024-12-06",
+    "municipality": "Lajas",
+    "notice_date": "2025-06-26",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-EQK-00927",
@@ -77,7 +104,10 @@ const MAP_DATA = [
     "color": "#10b981",
     "lat": 18.02569,
     "lng": -66.78968,
-    "date": "2025-07-03"
+    "date": "2025-07-03",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00878",
@@ -85,7 +115,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02904,
     "lng": -66.86223,
-    "date": "2025-06-12"
+    "date": "2025-06-12",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00794",
@@ -93,7 +126,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03738,
     "lng": -67.1089,
-    "date": "2024-12-02"
+    "date": "2024-12-02",
+    "municipality": "Lajas",
+    "notice_date": "2025-07-29",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-EQK-00732",
@@ -101,7 +137,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.01913,
     "lng": -66.84241,
-    "date": "2025-02-06"
+    "date": "2025-02-06",
+    "municipality": "Yauco",
+    "notice_date": "2025-07-02",
+    "stage": "12 - Substantial Inspection"
   },
   {
     "id": "PR-EQK-00697",
@@ -109,7 +148,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06338,
     "lng": -66.74634,
-    "date": "2025-01-28"
+    "date": "2025-01-28",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": "2025-06-09",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-EQK-00594",
@@ -117,7 +159,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06269,
     "lng": -66.71748,
-    "date": "2025-02-14"
+    "date": "2025-02-14",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": "2025-11-19",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00570",
@@ -125,7 +170,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97665,
     "lng": -66.8962,
-    "date": "2026-02-09"
+    "date": "2026-02-09",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00514",
@@ -133,7 +181,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.02034,
     "lng": -66.76241,
-    "date": "2025-01-15"
+    "date": "2025-01-15",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00425",
@@ -141,7 +192,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.98979,
     "lng": -66.81844,
-    "date": "2025-02-10"
+    "date": "2025-02-10",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "16 - Inactive"
   },
   {
     "id": "PR-SFM-01868",
@@ -149,7 +203,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00354,
     "lng": -66.10611,
-    "date": "2025-09-10"
+    "date": "2025-09-10",
+    "municipality": "Guayama",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01867",
@@ -157,7 +214,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00453,
     "lng": -66.10711,
-    "date": "2025-02-07"
+    "date": "2025-02-07",
+    "municipality": "Guayama",
+    "notice_date": "2025-11-19",
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-SFM-01860",
@@ -165,7 +225,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.0008,
     "lng": -66.10945,
-    "date": "2025-01-08"
+    "date": "2025-01-08",
+    "municipality": "Guayama",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01851",
@@ -173,7 +236,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.96404,
     "lng": -66.16652,
-    "date": "2024-12-18"
+    "date": "2024-12-18",
+    "municipality": "Guayama",
+    "notice_date": "2025-05-07",
+    "stage": "08 - Walls Inspection (1st Level)"
   },
   {
     "id": "PR-SFM-01842",
@@ -181,7 +247,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.96097,
     "lng": -66.16542,
-    "date": "2024-12-06"
+    "date": "2024-12-06",
+    "municipality": "Guayama",
+    "notice_date": "2025-10-13",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-01781",
@@ -189,7 +258,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.39046,
     "lng": -66.26303,
-    "date": "2025-05-13"
+    "date": "2025-05-13",
+    "municipality": "Dorado",
+    "notice_date": null,
+    "stage": "16 - Inactive"
   },
   {
     "id": "PR-SFM-01334",
@@ -197,7 +269,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.01344,
     "lng": -66.11842,
-    "date": "2025-01-08"
+    "date": "2025-01-08",
+    "municipality": "Guayama",
+    "notice_date": "2025-06-18",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-00736",
@@ -205,7 +280,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.9568,
     "lng": -66.41047,
-    "date": "2025-05-08"
+    "date": "2025-05-08",
+    "municipality": "Santa Isabel",
+    "notice_date": null,
+    "stage": "16 - Inactive"
   },
   {
     "id": "PR-R3-25289 (BR)",
@@ -213,7 +291,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.96019,
     "lng": -66.93079,
-    "date": "2024-10-30"
+    "date": "2024-10-30",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": "2025-09-22",
+    "stage": "08 - Walls Inspection (1st Level)"
   },
   {
     "id": "PR-R3-21788 (BR)",
@@ -221,7 +302,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.38472,
     "lng": -66.74146,
-    "date": "2024-10-23"
+    "date": "2024-10-23",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-17316 (BR)",
@@ -229,7 +313,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.14329,
     "lng": -67.06827,
-    "date": "2024-10-23"
+    "date": "2024-10-23",
+    "municipality": "San Germ\u00e1n",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-15841 (BR)",
@@ -237,7 +324,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42837,
     "lng": -66.17425,
-    "date": "2025-01-02"
+    "date": "2025-01-02",
+    "municipality": "Toa Baja",
+    "notice_date": "2025-03-12",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-10718",
@@ -245,7 +335,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.38988,
     "lng": -66.59767,
-    "date": "2025-06-11"
+    "date": "2025-06-11",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-09658",
@@ -253,7 +346,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.22042,
     "lng": -66.5908,
-    "date": "2024-10-23"
+    "date": "2024-10-23",
+    "municipality": "Jayuya",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-08514",
@@ -261,7 +357,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.45397,
     "lng": -67.09112,
-    "date": "2024-10-23"
+    "date": "2024-10-23",
+    "municipality": "Aguadilla",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-SFM-02793",
@@ -269,7 +368,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.50277,
     "lng": -67.0591,
-    "date": "2024-12-11"
+    "date": "2024-12-11",
+    "municipality": "Isabela",
+    "notice_date": "2025-05-26",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-02788",
@@ -277,7 +379,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.50128,
     "lng": -67.0145,
-    "date": "2024-12-03"
+    "date": "2024-12-03",
+    "municipality": "Isabela",
+    "notice_date": "2025-09-23",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-00460",
@@ -285,7 +390,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.48634,
     "lng": -66.97404,
-    "date": "2025-03-27"
+    "date": "2025-03-27",
+    "municipality": "Isabela",
+    "notice_date": null,
+    "stage": "16 - Inactive"
   },
   {
     "id": "PR-SFM-00092",
@@ -293,7 +401,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.50457,
     "lng": -67.04551,
-    "date": "2024-12-12"
+    "date": "2024-12-12",
+    "municipality": "Isabela",
+    "notice_date": "2025-07-24",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-R3-14136",
@@ -301,7 +412,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.32626,
     "lng": -66.99133,
-    "date": "2024-12-02"
+    "date": "2024-12-02",
+    "municipality": "San Sebasti\u00e1n",
+    "notice_date": "2025-07-30",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-R3-13835",
@@ -309,7 +423,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.50338,
     "lng": -67.02018,
-    "date": "2025-04-16"
+    "date": "2025-04-16",
+    "municipality": "Isabela",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-04719",
@@ -317,7 +434,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42748,
     "lng": -67.10705,
-    "date": "2024-12-26"
+    "date": "2024-12-26",
+    "municipality": "Moca",
+    "notice_date": "2025-10-31",
+    "stage": "06 - Retaining Wall Inspection (Walls)"
   },
   {
     "id": "PR-R3-17131",
@@ -325,7 +445,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.40662,
     "lng": -66.02575,
-    "date": "2025-03-31"
+    "date": "2025-03-31",
+    "municipality": "San Juan",
+    "notice_date": "2025-07-14",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-R3-11074",
@@ -333,7 +456,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.16103,
     "lng": -65.77894,
-    "date": "2024-11-11"
+    "date": "2024-11-11",
+    "municipality": "Humacao",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-03120",
@@ -341,7 +467,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.44172,
     "lng": -66.0511,
-    "date": "2024-11-11"
+    "date": "2024-11-11",
+    "municipality": "San Juan",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-01532",
@@ -349,7 +478,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.39247,
     "lng": -65.95023,
-    "date": "2024-11-22"
+    "date": "2024-11-22",
+    "municipality": "Carolina",
+    "notice_date": "2025-06-17",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-01343",
@@ -357,7 +489,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.14032,
     "lng": -65.83562,
-    "date": "2024-11-11"
+    "date": "2024-11-11",
+    "municipality": "Humacao",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-00456",
@@ -365,7 +500,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.31653,
     "lng": -65.90638,
-    "date": "2024-11-11"
+    "date": "2024-11-11",
+    "municipality": "Carolina",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-23561",
@@ -373,7 +511,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.3451,
     "lng": -66.08331,
-    "date": "2024-11-27"
+    "date": "2024-11-27",
+    "municipality": "San Juan",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-18639",
@@ -381,7 +522,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.33579,
     "lng": -66.08546,
-    "date": "2024-12-09"
+    "date": "2024-12-09",
+    "municipality": "San Juan",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-13951",
@@ -389,7 +533,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.32433,
     "lng": -66.12709,
-    "date": "2024-12-04"
+    "date": "2024-12-04",
+    "municipality": "Guaynabo",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-01076",
@@ -397,7 +544,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.30422,
     "lng": -66.12845,
-    "date": "2024-12-19"
+    "date": "2024-12-19",
+    "municipality": "Guaynabo",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-09610 (BR)",
@@ -405,7 +555,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.30604,
     "lng": -66.16865,
-    "date": "2024-12-19"
+    "date": "2024-12-19",
+    "municipality": "Bayam\u00f3n",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-02169",
@@ -413,7 +566,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.41034,
     "lng": -66.35218,
-    "date": "2024-12-19"
+    "date": "2024-12-19",
+    "municipality": "Vega Alta",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-SFM-01990",
@@ -421,7 +577,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.38319,
     "lng": -66.17253,
-    "date": "2025-01-20"
+    "date": "2025-01-20",
+    "municipality": "Bayam\u00f3n",
+    "notice_date": "2025-09-02",
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-EQK-01124",
@@ -429,7 +588,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00602,
     "lng": -66.90244,
-    "date": "2025-01-14"
+    "date": "2025-01-14",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": "2025-11-12",
+    "stage": "08 - Walls Inspection (1st Level)"
   },
   {
     "id": "PR-EQK-00804",
@@ -437,7 +599,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03721,
     "lng": -67.07495,
-    "date": "2025-02-04"
+    "date": "2025-02-04",
+    "municipality": "Lajas",
+    "notice_date": "2025-08-28",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-R3-08433",
@@ -445,7 +610,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.31187,
     "lng": -66.22236,
-    "date": "2025-01-23"
+    "date": "2025-01-23",
+    "municipality": "Naranjito",
+    "notice_date": "2025-07-25",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-13792",
@@ -453,7 +621,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.22158,
     "lng": -66.31692,
-    "date": "2025-02-07"
+    "date": "2025-02-07",
+    "municipality": "Barranquitas",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-12791",
@@ -461,7 +632,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.36178,
     "lng": -66.1436,
-    "date": "2025-02-07"
+    "date": "2025-02-07",
+    "municipality": "Bayam\u00f3n",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-02896 (BR)",
@@ -469,7 +643,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.32872,
     "lng": -66.37374,
-    "date": "2025-02-07"
+    "date": "2025-02-07",
+    "municipality": "Morovis",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-EQK-01244",
@@ -477,7 +654,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00717,
     "lng": -66.89356,
-    "date": "2025-03-13"
+    "date": "2025-03-13",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": "2025-07-30",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-EQK-01123",
@@ -485,7 +665,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00081,
     "lng": -66.87351,
-    "date": "2025-02-27"
+    "date": "2025-02-27",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00946",
@@ -493,7 +676,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.04828,
     "lng": -67.04152,
-    "date": "2025-03-03"
+    "date": "2025-03-03",
+    "municipality": "Lajas",
+    "notice_date": "2025-11-05",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00496",
@@ -501,7 +687,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00591,
     "lng": -66.89617,
-    "date": "2025-02-28"
+    "date": "2025-02-28",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": "2025-11-07",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-03044",
@@ -509,7 +698,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42624,
     "lng": -66.67549,
-    "date": "2025-04-04"
+    "date": "2025-04-04",
+    "municipality": "Arecibo",
+    "notice_date": "2025-10-02",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-R3-03018",
@@ -517,7 +709,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.45253,
     "lng": -66.61916,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-11",
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-R3-13085",
@@ -525,7 +720,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.46265,
     "lng": -66.74788,
-    "date": "2025-03-21"
+    "date": "2025-03-21",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-10",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-15549",
@@ -533,7 +731,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.46797,
     "lng": -66.75306,
-    "date": "2025-04-04"
+    "date": "2025-04-04",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-06",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-R3-18300",
@@ -541,7 +742,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.41408,
     "lng": -66.76631,
-    "date": "2025-03-28"
+    "date": "2025-03-28",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-20326 (BR)",
@@ -549,7 +753,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.48478,
     "lng": -66.64658,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02512",
@@ -557,7 +764,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.46847,
     "lng": -66.75617,
-    "date": "2025-04-14"
+    "date": "2025-04-14",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02842",
@@ -565,7 +775,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.45875,
     "lng": -66.73754,
-    "date": "2025-04-04"
+    "date": "2025-04-04",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-03",
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-SFM-02910",
@@ -573,7 +786,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.45147,
     "lng": -66.63736,
-    "date": "2025-04-11"
+    "date": "2025-04-11",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02913",
@@ -581,7 +797,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.43081,
     "lng": -66.61221,
-    "date": "2025-03-12"
+    "date": "2025-03-12",
+    "municipality": "Arecibo",
+    "notice_date": "2025-10-20",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-02916",
@@ -589,7 +808,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44363,
     "lng": -66.65529,
-    "date": "2025-03-03"
+    "date": "2025-03-03",
+    "municipality": "Arecibo",
+    "notice_date": "2025-09-12",
+    "stage": "08 - Walls Inspection (1st Level)"
   },
   {
     "id": "PR-SFM-02923",
@@ -597,7 +819,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44319,
     "lng": -66.66677,
-    "date": "2025-05-22"
+    "date": "2025-05-22",
+    "municipality": "Arecibo",
+    "notice_date": "2025-12-12",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02927",
@@ -605,7 +830,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.48456,
     "lng": -66.64734,
-    "date": "2025-03-12"
+    "date": "2025-03-12",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02930",
@@ -613,7 +841,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44353,
     "lng": -66.63826,
-    "date": "2025-05-16"
+    "date": "2025-05-16",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-06",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-02942",
@@ -621,7 +852,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.48428,
     "lng": -66.67687,
-    "date": "2025-03-12"
+    "date": "2025-03-12",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02952",
@@ -629,7 +863,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44096,
     "lng": -66.65219,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02953",
@@ -637,7 +874,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.48825,
     "lng": -66.63818,
-    "date": "2025-03-19"
+    "date": "2025-03-19",
+    "municipality": "Arecibo",
+    "notice_date": "2025-12-23",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02962",
@@ -645,7 +885,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42564,
     "lng": -66.76378,
-    "date": "2025-07-03"
+    "date": "2025-07-03",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-10",
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-SFM-02980",
@@ -653,7 +896,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42977,
     "lng": -66.68573,
-    "date": "2025-03-19"
+    "date": "2025-03-19",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02993",
@@ -661,7 +907,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42461,
     "lng": -66.6845,
-    "date": "2025-05-07"
+    "date": "2025-05-07",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-10",
+    "stage": "08 - Walls Inspection (1st Level)"
   },
   {
     "id": "PR-SFM-02999",
@@ -669,7 +918,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42475,
     "lng": -66.6722,
-    "date": "2025-04-11"
+    "date": "2025-04-11",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-03001",
@@ -677,7 +929,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.43002,
     "lng": -66.68325,
-    "date": "2025-03-14"
+    "date": "2025-03-14",
+    "municipality": "Arecibo",
+    "notice_date": "2025-10-28",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-SFM-03017",
@@ -685,7 +940,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.46016,
     "lng": -66.75448,
-    "date": "2025-06-13"
+    "date": "2025-06-13",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-20",
+    "stage": "08 - Walls Inspection (1st Level)"
   },
   {
     "id": "PR-SFM-03018",
@@ -693,7 +951,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.451,
     "lng": -66.7613,
-    "date": "2025-07-07"
+    "date": "2025-07-07",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03025",
@@ -701,7 +962,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.43793,
     "lng": -66.76117,
-    "date": "2025-05-15"
+    "date": "2025-05-15",
+    "municipality": "Arecibo",
+    "notice_date": "2025-11-11",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-00477",
@@ -709,7 +973,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.19212,
     "lng": -66.46963,
-    "date": "2024-12-04"
+    "date": "2024-12-04",
+    "municipality": "Orocovis",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-01183",
@@ -717,7 +984,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.21409,
     "lng": -66.03436,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "Caguas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-00347",
@@ -725,7 +995,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.37677,
     "lng": -66.19875,
-    "date": "2025-05-19"
+    "date": "2025-05-19",
+    "municipality": "Toa Alta",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-00568",
@@ -733,7 +1006,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.40443,
     "lng": -66.28706,
-    "date": "2025-05-08"
+    "date": "2025-05-08",
+    "municipality": "Dorado",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-00948 (BR)",
@@ -741,7 +1017,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.4337,
     "lng": -66.18021,
-    "date": "2025-05-19"
+    "date": "2025-05-19",
+    "municipality": "Toa Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-01026 (BR)",
@@ -749,7 +1028,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.27011,
     "lng": -66.27616,
-    "date": "2025-05-08"
+    "date": "2025-05-08",
+    "municipality": "Naranjito",
+    "notice_date": "2025-08-26",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-01198",
@@ -757,7 +1039,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.02837,
     "lng": -66.8721,
-    "date": "2025-04-28"
+    "date": "2025-04-28",
+    "municipality": "Yauco",
+    "notice_date": "2025-07-13",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-01809",
@@ -765,7 +1050,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.33924,
     "lng": -66.42969,
-    "date": "2025-04-29"
+    "date": "2025-04-29",
+    "municipality": "Morovis",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-01897",
@@ -773,7 +1061,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.24766,
     "lng": -66.8529,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Lares",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-02487 (BR)",
@@ -781,7 +1072,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.25877,
     "lng": -66.27145,
-    "date": "2025-06-25"
+    "date": "2025-06-25",
+    "municipality": "Naranjito",
+    "notice_date": "2025-10-06",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-02534",
@@ -789,7 +1083,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.22409,
     "lng": -66.21764,
-    "date": "2025-06-04"
+    "date": "2025-06-04",
+    "municipality": "Comer\u00edo",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-03345 (BR)",
@@ -797,7 +1094,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.44321,
     "lng": -66.11422,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Cata\u00f1o",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-03462",
@@ -805,7 +1105,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.4003,
     "lng": -66.8347,
-    "date": "2025-05-23"
+    "date": "2025-05-23",
+    "municipality": "Camuy",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-03795",
@@ -813,7 +1116,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.26475,
     "lng": -66.23993,
-    "date": "2025-05-08"
+    "date": "2025-05-08",
+    "municipality": "Naranjito",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-04140",
@@ -821,7 +1127,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.46464,
     "lng": -66.77332,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Hatillo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-04301",
@@ -829,7 +1138,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.15726,
     "lng": -67.14691,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Mayag\u00fcez",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-04815",
@@ -837,7 +1149,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.31646,
     "lng": -66.12487,
-    "date": "2025-05-19"
+    "date": "2025-05-19",
+    "municipality": "Guaynabo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-04963",
@@ -845,7 +1160,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.24766,
     "lng": -66.8529,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Lares",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-04986 (BR)",
@@ -853,7 +1171,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.27911,
     "lng": -67.14624,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "A\u00f1asco",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-08733",
@@ -861,7 +1182,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.25617,
     "lng": -66.27528,
-    "date": "2025-05-08"
+    "date": "2025-05-08",
+    "municipality": "Naranjito",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-09098",
@@ -869,7 +1193,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.05522,
     "lng": -66.52582,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-10322",
@@ -877,7 +1204,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.35679,
     "lng": -66.26846,
-    "date": "2025-09-25"
+    "date": "2025-09-25",
+    "municipality": "Toa Alta",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-10514",
@@ -885,7 +1215,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.27904,
     "lng": -66.39461,
-    "date": "2025-05-19"
+    "date": "2025-05-19",
+    "municipality": "Morovis",
+    "notice_date": "2025-08-05",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-11951",
@@ -893,7 +1226,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.31852,
     "lng": -66.22266,
-    "date": "2025-05-29"
+    "date": "2025-05-29",
+    "municipality": "Naranjito",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-14132",
@@ -901,7 +1237,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.16768,
     "lng": -67.0982,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Mayag\u00fcez",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-14937",
@@ -909,7 +1248,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.09137,
     "lng": -67.14555,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-15184 (BR)",
@@ -917,7 +1259,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.129,
     "lng": -66.48813,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Villalba",
+    "notice_date": "2025-09-30",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-16138",
@@ -925,7 +1270,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.36871,
     "lng": -66.13484,
-    "date": "2025-05-29"
+    "date": "2025-05-29",
+    "municipality": "Guaynabo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-17129",
@@ -933,7 +1281,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.48496,
     "lng": -66.56979,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Barceloneta",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-17475",
@@ -941,7 +1292,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.06044,
     "lng": -66.87878,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Yauco",
+    "notice_date": "2025-10-13",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-17476",
@@ -949,7 +1303,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.04957,
     "lng": -65.87743,
-    "date": "2025-07-09"
+    "date": "2025-07-09",
+    "municipality": "Yabucoa",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-18505",
@@ -957,7 +1314,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.4319,
     "lng": -66.43101,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Vega Baja",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-21069",
@@ -965,7 +1325,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.40052,
     "lng": -66.18635,
-    "date": "2025-04-29"
+    "date": "2025-04-29",
+    "municipality": "Bayam\u00f3n",
+    "notice_date": "2025-10-15",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-23529",
@@ -973,7 +1336,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.12768,
     "lng": -67.02356,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "San Germ\u00e1n",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-24851",
@@ -981,7 +1347,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.22804,
     "lng": -67.16732,
-    "date": "2025-05-23"
+    "date": "2025-05-23",
+    "municipality": "Mayag\u00fcez",
+    "notice_date": "2025-10-20",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-25417",
@@ -989,7 +1358,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.05089,
     "lng": -66.54709,
-    "date": "2025-04-30"
+    "date": "2025-04-30",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-26472 (BR)",
@@ -997,7 +1369,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.97872,
     "lng": -66.61646,
-    "date": "2025-04-29"
+    "date": "2025-04-29",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-23922",
@@ -1005,7 +1380,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.42979,
     "lng": -66.65067,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Arecibo",
+    "notice_date": "2025-09-29",
+    "stage": "11 - Structure Inspection"
   },
   {
     "id": "PR-R3-25531",
@@ -1013,7 +1391,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.47347,
     "lng": -66.65071,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02833",
@@ -1021,7 +1402,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.31318,
     "lng": -66.38738,
-    "date": "2025-05-15"
+    "date": "2025-05-15",
+    "municipality": "Morovis",
+    "notice_date": "2025-11-18",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-07131",
@@ -1029,7 +1413,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.47804,
     "lng": -66.69698,
-    "date": "2025-04-25"
+    "date": "2025-04-25",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-07237",
@@ -1037,7 +1424,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.40086,
     "lng": -66.60016,
-    "date": "2025-05-07"
+    "date": "2025-05-07",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00509",
@@ -1045,7 +1435,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.00461,
     "lng": -66.89323,
-    "date": "2025-05-12"
+    "date": "2025-05-12",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00610",
@@ -1053,7 +1446,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03508,
     "lng": -66.97281,
-    "date": "2025-05-08"
+    "date": "2025-05-08",
+    "municipality": "Lajas",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00667",
@@ -1061,7 +1457,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06695,
     "lng": -66.76066,
-    "date": "2025-05-19"
+    "date": "2025-05-19",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-03012",
@@ -1069,7 +1468,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00367,
     "lng": -67.07123,
-    "date": "2025-05-08"
+    "date": "2025-05-08",
+    "municipality": "Lajas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-01373",
@@ -1077,7 +1479,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.96378,
     "lng": -66.37358,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Santa Isabel",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00458",
@@ -1085,7 +1490,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.96096,
     "lng": -66.93308,
-    "date": "2025-05-21"
+    "date": "2025-05-21",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00465",
@@ -1093,7 +1501,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99181,
     "lng": -66.66117,
-    "date": "2025-07-09"
+    "date": "2025-07-09",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00499",
@@ -1101,7 +1512,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.96116,
     "lng": -66.93376,
-    "date": "2025-06-16"
+    "date": "2025-06-16",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00511",
@@ -1109,7 +1523,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97676,
     "lng": -66.88705,
-    "date": "2025-11-06"
+    "date": "2025-11-06",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00565",
@@ -1117,7 +1534,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97923,
     "lng": -66.88368,
-    "date": "2025-06-23"
+    "date": "2025-06-23",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00650",
@@ -1125,7 +1545,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.04153,
     "lng": -67.07691,
-    "date": "2025-05-27"
+    "date": "2025-05-27",
+    "municipality": "Lajas",
+    "notice_date": "2025-12-02",
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-EQK-00918",
@@ -1133,7 +1556,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00983,
     "lng": -66.85847,
-    "date": "2025-06-05"
+    "date": "2025-06-05",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00964",
@@ -1141,7 +1567,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97946,
     "lng": -66.88543,
-    "date": "2025-05-27"
+    "date": "2025-05-27",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00973",
@@ -1149,7 +1578,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.96533,
     "lng": -66.94202,
-    "date": "2025-06-23"
+    "date": "2025-06-23",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-01136",
@@ -1157,7 +1589,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.98028,
     "lng": -66.88467,
-    "date": "2025-06-04"
+    "date": "2025-06-04",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-01197",
@@ -1165,7 +1600,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99582,
     "lng": -66.71449,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-01214",
@@ -1173,7 +1611,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00559,
     "lng": -66.90186,
-    "date": "2025-07-08"
+    "date": "2025-07-08",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-01217",
@@ -1181,7 +1622,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.98536,
     "lng": -66.9213,
-    "date": "2025-07-09"
+    "date": "2025-07-09",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-01224",
@@ -1189,7 +1633,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.01236,
     "lng": -66.86538,
-    "date": "2025-06-27"
+    "date": "2025-06-27",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-07321",
@@ -1197,7 +1644,10 @@ const MAP_DATA = [
     "color": "#10b981",
     "lat": 18.44424,
     "lng": -66.18642,
-    "date": "2021-10-15"
+    "date": "2021-10-15",
+    "municipality": "Toa Baja",
+    "notice_date": "2025-08-27",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-EQK-00957",
@@ -1205,7 +1655,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99667,
     "lng": -66.65448,
-    "date": "2026-01-09"
+    "date": "2026-01-09",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-07975 (BR)",
@@ -1213,7 +1666,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.39844,
     "lng": -66.30636,
-    "date": "2022-02-23"
+    "date": "2022-02-23",
+    "municipality": "Vega Alta",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-19022 (BR)",
@@ -1221,7 +1677,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.31255,
     "lng": -65.2991,
-    "date": "2022-06-24"
+    "date": "2022-06-24",
+    "municipality": "Culebra",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-22958",
@@ -1229,7 +1688,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.23532,
     "lng": -66.20269,
-    "date": "2022-05-20"
+    "date": "2022-05-20",
+    "municipality": "Comer\u00edo",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-25820 (BR)",
@@ -1237,7 +1699,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.34874,
     "lng": -66.08677,
-    "date": "2021-02-10"
+    "date": "2021-02-10",
+    "municipality": "San Juan",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-15146",
@@ -1245,7 +1710,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.21528,
     "lng": -66.38004,
-    "date": "2025-06-04"
+    "date": "2025-06-04",
+    "municipality": "Orocovis",
+    "notice_date": "2025-08-20",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-00537",
@@ -1253,7 +1721,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.15825,
     "lng": -66.47838,
-    "date": "2025-07-24"
+    "date": "2025-07-24",
+    "municipality": "Villalba",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-00888",
@@ -1261,7 +1732,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.19522,
     "lng": -66.45203,
-    "date": "2025-09-03"
+    "date": "2025-09-03",
+    "municipality": "Orocovis",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-01542",
@@ -1269,7 +1743,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.3604,
     "lng": -66.40421,
-    "date": "2025-08-11"
+    "date": "2025-08-11",
+    "municipality": "Morovis",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-01820",
@@ -1277,7 +1754,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.24131,
     "lng": -66.41949,
-    "date": "2025-08-11"
+    "date": "2025-08-11",
+    "municipality": "Orocovis",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-01944",
@@ -1285,7 +1765,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.0936,
     "lng": -66.20724,
-    "date": "2025-08-06"
+    "date": "2025-08-06",
+    "municipality": "Cayey",
+    "notice_date": "2025-10-15",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-01975",
@@ -1293,7 +1776,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.16447,
     "lng": -65.76034,
-    "date": "2025-07-01"
+    "date": "2025-07-01",
+    "municipality": "Humacao",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-02509",
@@ -1301,7 +1787,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.37818,
     "lng": -66.21784,
-    "date": "2025-07-03"
+    "date": "2025-07-03",
+    "municipality": "Toa Alta",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-02526",
@@ -1309,7 +1798,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.36241,
     "lng": -65.84285,
-    "date": "2025-07-01"
+    "date": "2025-07-01",
+    "municipality": "R\u00edo Grande",
+    "notice_date": "2025-09-19",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-03312 (BR)",
@@ -1317,7 +1809,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.24738,
     "lng": -66.70188,
-    "date": "2025-08-06"
+    "date": "2025-08-06",
+    "municipality": "Utuado",
+    "notice_date": "2025-09-30",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-04703",
@@ -1325,7 +1820,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.28772,
     "lng": -67.18933,
-    "date": "2025-06-12"
+    "date": "2025-06-12",
+    "municipality": "A\u00f1asco",
+    "notice_date": "2025-07-29",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-05009",
@@ -1333,7 +1831,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.17721,
     "lng": -66.34687,
-    "date": "2025-06-19"
+    "date": "2025-06-19",
+    "municipality": "Barranquitas",
+    "notice_date": "2025-10-20",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-08556",
@@ -1341,7 +1842,10 @@ const MAP_DATA = [
     "color": "#10b981",
     "lat": 18.29849,
     "lng": -65.94148,
-    "date": "2025-07-17"
+    "date": "2025-07-17",
+    "municipality": "Carolina",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-08943 (BR)",
@@ -1349,7 +1853,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.04284,
     "lng": -66.44947,
-    "date": "2025-08-04"
+    "date": "2025-08-04",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-09324 (BR)",
@@ -1357,7 +1864,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.0531,
     "lng": -66.5855,
-    "date": "2025-05-28"
+    "date": "2025-05-28",
+    "municipality": "Ponce",
+    "notice_date": "2025-08-09",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-09893",
@@ -1365,7 +1875,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.08834,
     "lng": -66.229,
-    "date": "2025-07-17"
+    "date": "2025-07-17",
+    "municipality": "Salinas",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-10254 (BR)",
@@ -1373,7 +1886,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.42603,
     "lng": -66.49631,
-    "date": "2025-07-30"
+    "date": "2025-07-30",
+    "municipality": "Manat\u00ed",
+    "notice_date": "10/6/205",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-10854",
@@ -1381,7 +1897,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.00264,
     "lng": -66.92005,
-    "date": "2025-06-11"
+    "date": "2025-06-11",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": "2025-08-20",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-11101",
@@ -1389,7 +1908,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.43467,
     "lng": -66.42454,
-    "date": "2025-07-08"
+    "date": "2025-07-08",
+    "municipality": "Vega Baja",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-15567",
@@ -1397,7 +1919,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.37785,
     "lng": -66.21922,
-    "date": "2025-08-13"
+    "date": "2025-08-13",
+    "municipality": "Toa Alta",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-15738",
@@ -1405,7 +1930,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.15929,
     "lng": -65.75835,
-    "date": "2025-08-12"
+    "date": "2025-08-12",
+    "municipality": "Humacao",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-16476",
@@ -1413,7 +1941,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.32879,
     "lng": -66.26669,
-    "date": "2025-08-11"
+    "date": "2025-08-11",
+    "municipality": "Naranjito",
+    "notice_date": "2025-10-15",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-16493",
@@ -1421,7 +1952,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.07041,
     "lng": -66.32591,
-    "date": "2025-07-17"
+    "date": "2025-07-17",
+    "municipality": "Coamo",
+    "notice_date": "2025-09-19",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-21729",
@@ -1429,7 +1963,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.4194,
     "lng": -66.32718,
-    "date": "2025-05-30"
+    "date": "2025-05-30",
+    "municipality": "Vega Alta",
+    "notice_date": "2025-08-22",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-22067",
@@ -1437,7 +1974,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.40478,
     "lng": -65.95793,
-    "date": "2025-07-17"
+    "date": "2025-07-17",
+    "municipality": "Carolina",
+    "notice_date": "2025-12-22",
+    "stage": "13 - Final Inspection"
   },
   {
     "id": "PR-R3-22440",
@@ -1445,7 +1985,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.20179,
     "lng": -66.31921,
-    "date": "2025-06-26"
+    "date": "2025-06-26",
+    "municipality": "Barranquitas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-23757",
@@ -1453,7 +1996,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.26703,
     "lng": -65.68372,
-    "date": "2025-07-17"
+    "date": "2025-07-17",
+    "municipality": "Ceiba",
+    "notice_date": "2025-10-15",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-24988",
@@ -1461,7 +2007,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.93567,
     "lng": -66.19836,
-    "date": "2025-07-01"
+    "date": "2025-07-01",
+    "municipality": "Guayama",
+    "notice_date": "2025-09-02",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-25711",
@@ -1469,7 +2018,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.22688,
     "lng": -66.31409,
-    "date": "2025-06-18"
+    "date": "2025-06-18",
+    "municipality": "Barranquitas",
+    "notice_date": "2025-10-15",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-26749",
@@ -1477,7 +2029,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.33113,
     "lng": -66.07958,
-    "date": "2025-07-24"
+    "date": "2025-07-24",
+    "municipality": "San Juan",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01311",
@@ -1485,7 +2040,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.03633,
     "lng": -66.84514,
-    "date": "2025-06-24"
+    "date": "2025-06-24",
+    "municipality": "Yauco",
+    "notice_date": "2025-10-28",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-SFM-01314",
@@ -1493,7 +2051,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.16063,
     "lng": -65.75879,
-    "date": "2025-06-17"
+    "date": "2025-06-17",
+    "municipality": "Humacao",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-01520",
@@ -1501,7 +2062,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.18292,
     "lng": -67.1642,
-    "date": "2025-06-12"
+    "date": "2025-06-12",
+    "municipality": "Mayag\u00fcez",
+    "notice_date": "2026-01-28",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-SFM-01534",
@@ -1509,7 +2073,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.15419,
     "lng": -65.82553,
-    "date": "2025-07-09"
+    "date": "2025-07-09",
+    "municipality": "Humacao",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-03328",
@@ -1517,7 +2084,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.24589,
     "lng": -66.70177,
-    "date": "2025-06-27"
+    "date": "2025-06-27",
+    "municipality": "Utuado",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-08798",
@@ -1525,7 +2095,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.32794,
     "lng": -66.27315,
-    "date": "2025-07-08"
+    "date": "2025-07-08",
+    "municipality": "Naranjito",
+    "notice_date": "2025-10-21",
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-12153",
@@ -1533,7 +2106,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.42967,
     "lng": -66.03989,
-    "date": "2025-08-06"
+    "date": "2025-08-06",
+    "municipality": "San Juan",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-16767",
@@ -1541,7 +2117,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.42604,
     "lng": -66.2338,
-    "date": "2025-06-10"
+    "date": "2025-06-10",
+    "municipality": "Toa Baja",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-24351",
@@ -1549,7 +2128,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.30493,
     "lng": -66.13193,
-    "date": "2025-06-04"
+    "date": "2025-06-04",
+    "municipality": "Guaynabo",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02266",
@@ -1557,7 +2139,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.47277,
     "lng": -66.26392,
-    "date": "2025-06-04"
+    "date": "2025-06-04",
+    "municipality": "Dorado",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-SFM-02425",
@@ -1565,7 +2150,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.33125,
     "lng": -66.98876,
-    "date": "2025-07-03"
+    "date": "2025-07-03",
+    "municipality": "San Sebasti\u00e1n",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02597",
@@ -1573,7 +2161,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.03377,
     "lng": -66.84476,
-    "date": "2025-08-14"
+    "date": "2025-08-14",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-SFM-02630",
@@ -1581,7 +2172,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.99749,
     "lng": -66.89718,
-    "date": "2025-07-07"
+    "date": "2025-07-07",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-12900",
@@ -1589,7 +2183,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.30813,
     "lng": -65.30707,
-    "date": "2021-01-11"
+    "date": "2021-01-11",
+    "municipality": "Culebra",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-14783",
@@ -1597,7 +2194,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.38034,
     "lng": -66.25486,
-    "date": "2022-09-01"
+    "date": "2022-09-01",
+    "municipality": "Toa Alta",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-19002",
@@ -1605,7 +2205,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.3123,
     "lng": -65.30543,
-    "date": "2022-06-28"
+    "date": "2022-06-28",
+    "municipality": "Culebra",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-R3-00123",
@@ -1613,7 +2216,10 @@ const MAP_DATA = [
     "color": "#10b981",
     "lat": 18.17216,
     "lng": -66.04001,
-    "date": "2025-07-23"
+    "date": "2025-07-23",
+    "municipality": "Caguas",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00646",
@@ -1621,7 +2227,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02463,
     "lng": -66.86451,
-    "date": "2025-09-25"
+    "date": "2025-09-25",
+    "municipality": "Yauco",
+    "notice_date": "2026-01-23",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00676",
@@ -1629,7 +2238,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.9964,
     "lng": -66.97134,
-    "date": "2025-09-02"
+    "date": "2025-09-02",
+    "municipality": "Lajas",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00832",
@@ -1637,7 +2249,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00497,
     "lng": -66.91159,
-    "date": "2025-08-14"
+    "date": "2025-08-14",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00835",
@@ -1645,7 +2260,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99664,
     "lng": -66.9714,
-    "date": "2025-07-29"
+    "date": "2025-07-29",
+    "municipality": "Lajas",
+    "notice_date": "2026-01-12",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-00874",
@@ -1653,7 +2271,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02257,
     "lng": -66.86131,
-    "date": "2025-10-23"
+    "date": "2025-10-23",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00951",
@@ -1661,7 +2282,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99614,
     "lng": -66.97159,
-    "date": "2025-11-20"
+    "date": "2025-11-20",
+    "municipality": "Lajas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-01067",
@@ -1669,7 +2293,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.01452,
     "lng": -66.84341,
-    "date": "2025-08-11"
+    "date": "2025-08-11",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-01131",
@@ -1677,7 +2304,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97351,
     "lng": -66.94615,
-    "date": "2025-07-29"
+    "date": "2025-07-29",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-26215",
@@ -1685,7 +2315,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.00437,
     "lng": -66.84543,
-    "date": "2025-07-28"
+    "date": "2025-07-28",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-BR-50495",
@@ -1693,7 +2326,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.0542,
     "lng": -66.71586,
-    "date": "2025-08-04"
+    "date": "2025-08-04",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-09808",
@@ -1701,7 +2337,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.01209,
     "lng": -66.87451,
-    "date": "2025-08-14"
+    "date": "2025-08-14",
+    "municipality": "Yauco",
+    "notice_date": "2025-12-23",
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-R3-25372",
@@ -1709,7 +2348,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03962,
     "lng": -66.79576,
-    "date": "2025-07-25"
+    "date": "2025-07-25",
+    "municipality": "Guayanilla",
+    "notice_date": "2026-02-02",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-01230",
@@ -1717,7 +2359,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.03956,
     "lng": -66.79661,
-    "date": "2025-07-25"
+    "date": "2025-07-25",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03056",
@@ -1725,7 +2370,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06605,
     "lng": -66.75083,
-    "date": "2025-12-30"
+    "date": "2025-12-30",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03059",
@@ -1733,7 +2381,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06603,
     "lng": -66.75093,
-    "date": "2025-09-09"
+    "date": "2025-09-09",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": "2026-02-02",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-03109",
@@ -1741,7 +2392,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05792,
     "lng": -66.69619,
-    "date": "2025-08-05"
+    "date": "2025-08-05",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": "2025-12-08",
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-03110",
@@ -1749,7 +2403,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05963,
     "lng": -66.69681,
-    "date": "2025-09-04"
+    "date": "2025-09-04",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03113",
@@ -1757,7 +2414,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06061,
     "lng": -66.69777,
-    "date": "2025-09-04"
+    "date": "2025-09-04",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03172",
@@ -1765,7 +2425,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06244,
     "lng": -66.74633,
-    "date": "2025-09-09"
+    "date": "2025-09-09",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03341",
@@ -1773,7 +2436,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05554,
     "lng": -66.71492,
-    "date": "2025-10-21"
+    "date": "2025-10-21",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03364",
@@ -1781,7 +2447,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06079,
     "lng": -66.78214,
-    "date": "2025-10-14"
+    "date": "2025-10-14",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "16 - Inactive"
   },
   {
     "id": "PR-SFM-02181",
@@ -1789,7 +2458,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99813,
     "lng": -66.34326,
-    "date": "2025-08-14"
+    "date": "2025-08-14",
+    "municipality": "Santa Isabel",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00814",
@@ -1797,7 +2469,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97875,
     "lng": -66.89214,
-    "date": "2025-09-02"
+    "date": "2025-09-02",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-00764",
@@ -1805,7 +2480,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.18121,
     "lng": -66.98036,
-    "date": "2025-08-22"
+    "date": "2025-08-22",
+    "municipality": "Maricao",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-06675",
@@ -1813,7 +2491,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.0162,
     "lng": -66.62672,
-    "date": "2025-08-04"
+    "date": "2025-08-04",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-11425",
@@ -1821,7 +2502,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.42865,
     "lng": -66.16993,
-    "date": "2025-09-03"
+    "date": "2025-09-03",
+    "municipality": "Toa Baja",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-17123",
@@ -1829,7 +2513,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.20368,
     "lng": -67.14891,
-    "date": "2025-07-23"
+    "date": "2025-07-23",
+    "municipality": "Mayag\u00fcez",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-03428",
@@ -1837,7 +2524,10 @@ const MAP_DATA = [
     "color": "#10b981",
     "lat": 18.40862,
     "lng": -66.33764,
-    "date": "2025-08-14"
+    "date": "2025-08-14",
+    "municipality": "Vega Alta",
+    "notice_date": null,
+    "stage": "00 - Reassigned"
   },
   {
     "id": "PR-EQK-00729",
@@ -1845,7 +2535,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02911,
     "lng": -66.86174,
-    "date": "2025-10-08"
+    "date": "2025-10-08",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-07716",
@@ -1853,7 +2546,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.04978,
     "lng": -66.71501,
-    "date": "2025-08-27"
+    "date": "2025-08-27",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02602",
@@ -1861,7 +2557,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.04828,
     "lng": -66.55212,
-    "date": "2025-09-09"
+    "date": "2025-09-09",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02722",
@@ -1869,7 +2568,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.01492,
     "lng": -66.58143,
-    "date": "2025-09-30"
+    "date": "2025-09-30",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03075",
@@ -1877,7 +2579,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05033,
     "lng": -66.55241,
-    "date": "2025-10-09"
+    "date": "2025-10-09",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03042",
@@ -1885,7 +2590,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.99638,
     "lng": -66.7854,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02989",
@@ -1893,7 +2601,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.29459,
     "lng": -67.07802,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "A\u00f1asco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02843",
@@ -1901,7 +2612,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.28039,
     "lng": -66.70568,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "Utuado",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02821",
@@ -1909,7 +2623,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.37773,
     "lng": -67.11385,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "Moca",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02708",
@@ -1917,7 +2634,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.19061,
     "lng": -65.95946,
-    "date": "2026-02-20"
+    "date": "2026-02-20",
+    "municipality": "San Lorenzo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02440",
@@ -1925,7 +2645,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.34011,
     "lng": -67.00556,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "San Sebasti\u00e1n",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02391",
@@ -1933,7 +2656,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.44066,
     "lng": -66.23119,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Toa Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02145",
@@ -1941,7 +2667,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.4534,
     "lng": -66.54527,
-    "date": "2025-10-14"
+    "date": "2025-10-14",
+    "municipality": "Barceloneta",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-01219",
@@ -1949,7 +2678,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.97803,
     "lng": -66.88549,
-    "date": "2025-10-13"
+    "date": "2025-10-13",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-SFM-02067",
@@ -1957,7 +2689,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.00027,
     "lng": -66.25205,
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "municipality": "Salinas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01780",
@@ -1965,7 +2700,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.33098,
     "lng": -66.98949,
-    "date": "2025-09-29"
+    "date": "2025-09-29",
+    "municipality": "San Sebasti\u00e1n",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-01673",
@@ -1973,7 +2711,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.41174,
     "lng": -66.07639,
-    "date": "2026-01-14"
+    "date": "2026-01-14",
+    "municipality": "San Juan",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01413",
@@ -1981,7 +2722,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.0805,
     "lng": -66.35399,
-    "date": "2025-09-29"
+    "date": "2025-09-29",
+    "municipality": "Coamo",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-01345",
@@ -1989,7 +2733,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.37768,
     "lng": -66.21848,
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "municipality": "Toa Alta",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-00906",
@@ -1997,7 +2744,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.16803,
     "lng": -65.7467,
-    "date": "2026-01-14"
+    "date": "2026-01-14",
+    "municipality": "Humacao",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-00673",
@@ -2005,7 +2755,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.41853,
     "lng": -66.21501,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Toa Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-00485",
@@ -2013,7 +2766,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.0102,
     "lng": -65.93133,
-    "date": "2026-01-14"
+    "date": "2026-01-14",
+    "municipality": "Maunabo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-00440",
@@ -2021,7 +2777,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.37049,
     "lng": -66.51858,
-    "date": "2025-09-30"
+    "date": "2025-09-30",
+    "municipality": "Manat\u00ed",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-BR-00518",
@@ -2029,7 +2788,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.34708,
     "lng": -66.19325,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Bayam\u00f3n",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-BR-00454",
@@ -2037,7 +2799,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.39218,
     "lng": -66.41434,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Vega Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-26255",
@@ -2045,7 +2810,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.42627,
     "lng": -66.49334,
-    "date": "2025-10-06"
+    "date": "2025-10-06",
+    "municipality": "Manat\u00ed",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-24893",
@@ -2053,7 +2821,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.27143,
     "lng": -65.93601,
-    "date": "2026-01-13"
+    "date": "2026-01-13",
+    "municipality": "Gurabo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-21418",
@@ -2061,7 +2832,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.44676,
     "lng": -66.54996,
-    "date": "2025-10-06"
+    "date": "2025-10-06",
+    "municipality": "Barceloneta",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-20643 (BR)",
@@ -2069,7 +2843,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.26283,
     "lng": -67.07328,
-    "date": "2025-09-29"
+    "date": "2025-09-29",
+    "municipality": "A\u00f1asco",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-19547",
@@ -2077,7 +2854,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.21851,
     "lng": -66.3981,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Orocovis",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-19480",
@@ -2085,7 +2865,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.3576,
     "lng": -66.40666,
-    "date": "2025-11-06"
+    "date": "2025-11-06",
+    "municipality": "Morovis",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-18726",
@@ -2093,7 +2876,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.99838,
     "lng": -66.53075,
-    "date": "2025-09-03"
+    "date": "2025-09-03",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-18693",
@@ -2101,7 +2887,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.31639,
     "lng": -65.97951,
-    "date": "2026-01-14"
+    "date": "2026-01-14",
+    "municipality": "Trujillo Alto",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-17624",
@@ -2109,7 +2898,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.94962,
     "lng": -66.26615,
-    "date": "2025-11-06"
+    "date": "2025-11-06",
+    "municipality": "Salinas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-16736",
@@ -2117,7 +2909,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.29071,
     "lng": -66.0485,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Caguas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-08563",
@@ -2125,7 +2920,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.35426,
     "lng": -66.45223,
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "municipality": "Morovis",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-07952",
@@ -2133,7 +2931,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.46008,
     "lng": -66.35222,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Vega Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-07653 (BR)",
@@ -2141,7 +2942,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.13659,
     "lng": -66.73367,
-    "date": "2025-09-29"
+    "date": "2025-09-29",
+    "municipality": "Adjuntas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-05447 (BR)",
@@ -2149,7 +2953,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.08332,
     "lng": -66.36047,
-    "date": "2026-02-19"
+    "date": "2026-02-19",
+    "municipality": "Coamo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-03978",
@@ -2157,7 +2964,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.31942,
     "lng": -66.15399,
-    "date": "2026-01-27"
+    "date": "2026-01-27",
+    "municipality": "Bayam\u00f3n",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-03612",
@@ -2165,7 +2975,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.41936,
     "lng": -66.4071,
-    "date": "2026-02-09"
+    "date": "2026-02-09",
+    "municipality": "Vega Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-03050 (BR)",
@@ -2173,7 +2986,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.98936,
     "lng": -66.11461,
-    "date": "2026-01-13"
+    "date": "2026-01-13",
+    "municipality": "Guayama",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-01451",
@@ -2181,7 +2997,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.24999,
     "lng": -66.19592,
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "municipality": "Comer\u00edo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00522",
@@ -2189,7 +3008,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.05839,
     "lng": -66.77029,
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-12134",
@@ -2197,7 +3019,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.04911,
     "lng": -65.8718,
-    "date": "2026-01-14"
+    "date": "2026-01-14",
+    "municipality": "Yabucoa",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01290",
@@ -2205,7 +3030,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.03861,
     "lng": -66.84393,
-    "date": "2025-10-21"
+    "date": "2025-10-21",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00876",
@@ -2213,7 +3041,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03636,
     "lng": -66.8576,
-    "date": "2025-10-29"
+    "date": "2025-10-29",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01298",
@@ -2221,7 +3052,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.03598,
     "lng": -66.84602,
-    "date": "2025-10-06"
+    "date": "2025-10-06",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-SFM-02236",
@@ -2229,7 +3063,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.03577,
     "lng": -66.84526,
-    "date": "2025-10-06"
+    "date": "2025-10-06",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-EQK-03013",
@@ -2237,7 +3074,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.029,
     "lng": -66.98486,
-    "date": "2025-11-11"
+    "date": "2025-11-11",
+    "municipality": "Lajas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00796",
@@ -2245,7 +3085,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.01447,
     "lng": -66.87367,
-    "date": "2026-02-04"
+    "date": "2026-02-04",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-10286 (BR)",
@@ -2253,7 +3096,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.01148,
     "lng": -66.86937,
-    "date": "2025-10-06"
+    "date": "2025-10-06",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "15 - Construction Complete"
   },
   {
     "id": "PR-R3-01031 (BR)",
@@ -2261,7 +3107,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 17.98307,
     "lng": -66.63659,
-    "date": "2025-09-29"
+    "date": "2025-09-29",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00576",
@@ -2269,7 +3118,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97585,
     "lng": -67.04752,
-    "date": "2025-10-23"
+    "date": "2025-10-23",
+    "municipality": "Lajas",
+    "notice_date": null,
+    "stage": "16 - Inactive"
   },
   {
     "id": "PR-SFM-05130",
@@ -2277,7 +3129,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.46243,
     "lng": -66.5966,
-    "date": "2025-12-17"
+    "date": "2025-12-17",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04581",
@@ -2285,7 +3140,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.43938,
     "lng": -66.76435,
-    "date": "2026-01-16"
+    "date": "2026-01-16",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02974",
@@ -2293,7 +3151,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97317,
     "lng": -67.18638,
-    "date": "2025-12-12"
+    "date": "2025-12-12",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02752",
@@ -2301,7 +3162,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97151,
     "lng": -67.18923,
-    "date": "2025-12-09"
+    "date": "2025-12-09",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-05356",
@@ -2309,7 +3173,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44921,
     "lng": -66.51021,
-    "date": "2025-12-15"
+    "date": "2025-12-15",
+    "municipality": "Manat\u00ed",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-05653",
@@ -2317,7 +3184,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44912,
     "lng": -66.49459,
-    "date": "2025-11-25"
+    "date": "2025-11-25",
+    "municipality": "Manat\u00ed",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04595",
@@ -2325,7 +3195,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.44009,
     "lng": -66.44752,
-    "date": "2026-01-05"
+    "date": "2026-01-05",
+    "municipality": "Manat\u00ed",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04073",
@@ -2333,7 +3206,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.09852,
     "lng": -67.17373,
-    "date": "2025-12-08"
+    "date": "2025-12-08",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04409",
@@ -2341,7 +3217,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05736,
     "lng": -66.6954,
-    "date": "2025-12-23"
+    "date": "2025-12-23",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-05247",
@@ -2349,7 +3228,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.0414,
     "lng": -67.07683,
-    "date": "2026-01-13"
+    "date": "2026-01-13",
+    "municipality": "Lajas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04312",
@@ -2357,7 +3239,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03007,
     "lng": -67.16651,
-    "date": "2026-02-09"
+    "date": "2026-02-09",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04324",
@@ -2365,7 +3250,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.0278,
     "lng": -67.16212,
-    "date": "2025-12-19"
+    "date": "2025-12-19",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04210",
@@ -2373,7 +3261,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02036,
     "lng": -67.13684,
-    "date": "2025-12-02"
+    "date": "2025-12-02",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04803",
@@ -2381,7 +3272,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99909,
     "lng": -66.87408,
-    "date": "2025-12-29"
+    "date": "2025-12-29",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04809",
@@ -2389,7 +3283,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.99728,
     "lng": -66.81361,
-    "date": "2025-12-31"
+    "date": "2025-12-31",
+    "municipality": "Guayanilla",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04915",
@@ -2397,7 +3294,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97609,
     "lng": -67.19395,
-    "date": "2025-12-19"
+    "date": "2025-12-19",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04792",
@@ -2405,7 +3305,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.97396,
     "lng": -67.18771,
-    "date": "2026-01-02"
+    "date": "2026-01-02",
+    "municipality": "Cabo Rojo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00647",
@@ -2413,7 +3316,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06325,
     "lng": -66.73073,
-    "date": "2026-02-09"
+    "date": "2026-02-09",
+    "municipality": "Pe\u00f1uelas",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00536",
@@ -2421,7 +3327,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03296,
     "lng": -66.62021,
-    "date": "2025-12-12"
+    "date": "2025-12-12",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-00900",
@@ -2429,7 +3338,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03119,
     "lng": -66.86647,
-    "date": "2026-01-20"
+    "date": "2026-01-20",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-EQK-01048",
@@ -2437,7 +3349,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 17.98966,
     "lng": -66.91782,
-    "date": "2026-02-12"
+    "date": "2026-02-12",
+    "municipality": "Gu\u00e1nica",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-04902",
@@ -2445,7 +3360,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.06366,
     "lng": -66.60115,
-    "date": "2025-12-02"
+    "date": "2025-12-02",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-15230",
@@ -2453,7 +3371,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.04344,
     "lng": -66.67824,
-    "date": "2025-12-04"
+    "date": "2025-12-04",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-22745",
@@ -2461,7 +3382,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.031,
     "lng": -66.65839,
-    "date": "2025-12-10"
+    "date": "2025-12-10",
+    "municipality": "Ponce",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02947",
@@ -2469,7 +3393,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.44391,
     "lng": -66.22159,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Toa Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-00499",
@@ -2477,7 +3404,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.43898,
     "lng": -66.37436,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Vega Baja",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01620",
@@ -2485,7 +3415,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.42867,
     "lng": -66.27513,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Dorado",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-02429",
@@ -2493,7 +3426,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.41027,
     "lng": -66.82373,
-    "date": "2025-12-10"
+    "date": "2025-12-10",
+    "municipality": "Camuy",
+    "notice_date": null,
+    "stage": "04 - Construction - Started"
   },
   {
     "id": "PR-R3-06317",
@@ -2501,7 +3437,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.30452,
     "lng": -66.41509,
-    "date": "2025-12-16"
+    "date": "2025-12-16",
+    "municipality": "Morovis",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01934",
@@ -2509,7 +3448,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.19104,
     "lng": -65.95968,
-    "date": "2026-01-14"
+    "date": "2026-01-14",
+    "municipality": "San Lorenzo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-01303",
@@ -2517,7 +3459,10 @@ const MAP_DATA = [
     "color": "#3b82f6",
     "lat": 18.0336,
     "lng": -66.84625,
-    "date": "2025-12-10"
+    "date": "2025-12-10",
+    "municipality": "Yauco",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-R3-13268",
@@ -2525,7 +3470,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03064,
     "lng": -66.49308,
-    "date": "2026-01-13"
+    "date": "2026-01-13",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-03648",
@@ -2533,7 +3481,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.41479,
     "lng": -66.63769,
-    "date": "2026-02-06"
+    "date": "2026-02-06",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04034",
@@ -2541,7 +3492,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.04979,
     "lng": -66.5282,
-    "date": "2025-12-31"
+    "date": "2025-12-31",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04534",
@@ -2549,7 +3503,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.04015,
     "lng": -66.46816,
-    "date": "2026-01-23"
+    "date": "2026-01-23",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04656",
@@ -2557,7 +3514,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03866,
     "lng": -66.46394,
-    "date": "2026-01-27"
+    "date": "2026-01-27",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04749",
@@ -2565,7 +3525,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.03148,
     "lng": -66.5377,
-    "date": "2026-02-02"
+    "date": "2026-02-02",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04782",
@@ -2573,7 +3536,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02678,
     "lng": -66.53794,
-    "date": "2026-01-23"
+    "date": "2026-01-23",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-05038",
@@ -2581,7 +3547,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02603,
     "lng": -66.53397,
-    "date": "2026-01-23"
+    "date": "2026-01-23",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-05116",
@@ -2589,7 +3558,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02957,
     "lng": -66.51555,
-    "date": "2026-02-19"
+    "date": "2026-02-19",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-05438",
@@ -2597,7 +3569,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.02942,
     "lng": -66.53966,
-    "date": "2026-02-05"
+    "date": "2026-02-05",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04694",
@@ -2605,7 +3580,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05845,
     "lng": -66.45724,
-    "date": "2026-01-20"
+    "date": "2026-01-20",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-05399",
@@ -2613,7 +3591,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05707,
     "lng": -66.45496,
-    "date": "2026-01-27"
+    "date": "2026-01-27",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04500",
@@ -2621,7 +3602,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.05681,
     "lng": -66.45376,
-    "date": "2026-02-09"
+    "date": "2026-02-09",
+    "municipality": "Juana D\u00edaz",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-04287",
@@ -2629,7 +3613,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.28611,
     "lng": -66.53934,
-    "date": "2026-02-16"
+    "date": "2026-02-16",
+    "municipality": "Ciales",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   },
   {
     "id": "PR-SFM-05843",
@@ -2637,7 +3624,10 @@ const MAP_DATA = [
     "color": "#ef4444",
     "lat": 18.46263,
     "lng": -66.74816,
-    "date": "2026-02-16"
+    "date": "2026-02-16",
+    "municipality": "Arecibo",
+    "notice_date": null,
+    "stage": "03 - Design & Permitting"
   }
 ];
-const LAST_UPDATE = '2026-02-20 13:52:32';
+const LAST_UPDATE = '2026-02-20 14:27:18';
