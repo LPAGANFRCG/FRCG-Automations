@@ -217,7 +217,7 @@ const MAP_DATA = [
     "date": "2025-02-07",
     "municipality": "Guayama",
     "notice_date": "2025-11-19",
-    "stage": "07 - Foundation Inspection"
+    "stage": "08 - Walls Inspection (1st Level)"
   },
   {
     "id": "PR-SFM-01860",
@@ -250,7 +250,7 @@ const MAP_DATA = [
     "date": "2024-12-06",
     "municipality": "Guayama",
     "notice_date": "2025-10-13",
-    "stage": "04 - Construction - Started"
+    "stage": "07 - Foundation Inspection"
   },
   {
     "id": "PR-SFM-01781",
@@ -371,7 +371,7 @@ const MAP_DATA = [
     "date": "2024-12-11",
     "municipality": "Isabela",
     "notice_date": "2025-05-26",
-    "stage": "11 - Structure Inspection"
+    "stage": "12 - Substantial Inspection"
   },
   {
     "id": "PR-SFM-02788",
@@ -404,7 +404,7 @@ const MAP_DATA = [
     "date": "2024-12-12",
     "municipality": "Isabela",
     "notice_date": "2025-07-24",
-    "stage": "11 - Structure Inspection"
+    "stage": "12 - Substantial Inspection"
   },
   {
     "id": "PR-R3-14136",
@@ -3630,4 +3630,4 @@ const MAP_DATA = [
     "stage": "03 - Design & Permitting"
   }
 ];
-const LAST_UPDATE = '2026-02-20 14:46:50';
+const LAST_UPDATE = '2026-02-21 13:19:13';
