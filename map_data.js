@@ -1240,7 +1240,7 @@ const MAP_DATA = [
     "date": "2025-04-30",
     "municipality": "Mayag\u00fcez",
     "notice_date": null,
-    "stage": "04 - Construction - Started"
+    "stage": "13 - Final Inspection"
   },
   {
     "id": "PR-R3-14937",
@@ -2702,7 +2702,7 @@ const MAP_DATA = [
     "lng": -66.98949,
     "date": "2025-09-29",
     "municipality": "San Sebasti\u00e1n",
-    "notice_date": null,
+    "notice_date": "2026-02-23",
     "stage": "04 - Construction - Started"
   },
   {
@@ -3630,4 +3630,4 @@ const MAP_DATA = [
     "stage": "03 - Design & Permitting"
   }
 ];
-const LAST_UPDATE = '2026-02-22 13:14:46';
+const LAST_UPDATE = '2026-02-23 13:38:58';
